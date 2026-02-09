@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Nirjala/Documents/3-sem project/3 sem study material",
+      "program": "/Users/Nirjala/Documents/3-sem project/3 sem study material/build/Debug/outDebug"
+    }
+  ]
+}
