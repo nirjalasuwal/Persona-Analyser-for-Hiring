@@ -1,0 +1,6 @@
+module pah
+typeinfo apppah.qmltypes
+prefer :/qt/qml/pah/
+Main 254.0 Main.qml
+depends QtQuick
+
