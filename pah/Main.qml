@@ -2,7 +2,8 @@ import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
 
-ApplicationWindow {        // Use ApplicationWindow instead of Window for better controls
+ApplicationWindow {        
+    id: window
     visible: true
     width: 640
     height: 480
@@ -11,10 +12,10 @@ ApplicationWindow {        // Use ApplicationWindow instead of Window for better
     StackView {
         id: stack
         anchors.fill: parent
-
-        initialItem: mainPage     // start with your main page
+        initialItem: mainPage
     }
 
+    // Main Page
     Component {
         id: mainPage
 
@@ -43,7 +44,7 @@ ApplicationWindow {        // Use ApplicationWindow instead of Window for better
                 }
 
                 onClicked: {
-                    stack.push(adminPage)   // push the Admin page
+                    stack.push(adminPage)
                 }
             }
 
@@ -62,7 +63,7 @@ ApplicationWindow {        // Use ApplicationWindow instead of Window for better
                 }
 
                 onClicked: {
-                    stack.push(candidatePage)   // push the Candidate page
+                    stack.push(candidatePage)
                 }
             }
         }
@@ -72,59 +73,173 @@ ApplicationWindow {        // Use ApplicationWindow instead of Window for better
     Component {
         id: adminPage
 
-        Page {
+        Item {
+            id: adminRoot
 
+            // Properties
+            readonly property string adminPassword: "admin123"
+            readonly property int maxAttempts: 3
+            readonly property int lockoutDuration: 30
 
-                        Column {
-                            anchors.horizontalCenter: parent.horizontalCenter
-                            anchors.verticalCenter: parent.verticalCenter
-                            spacing: 10
+            property int attempts: 0
+            property bool isLocked: false
+            property int remainingLockTime: 0
 
-                            // Move column slightly above center
-                            anchors.verticalCenterOffset: -50
+            Rectangle {
+                anchors.fill: parent
+                color: "#f0f2f5"
 
-                            // Label
-                            Text {
-                                text: "Enter Password"
-                                font.pixelSize: 24
-                                horizontalAlignment: Text.AlignHCenter
-                            }
+                ColumnLayout {
+                    anchors.centerIn: parent
+                    width: parent.width * 0.8
+                    spacing: 15
 
-                            // Input field
-                            TextField {
-                                placeholderText: "Password"
-                                width: 200
-                                echoMode: TextInput.Password  // hides input
-                                font.pixelSize: 16
-                                                padding: 5
-                                                background: Rectangle {
-                                                    color: "#E0E0E0"
-                                                    radius: 8
-                                                }
-                            }
+                    Text {
+                        Layout.alignment: Qt.AlignHCenter
+                        text: "System Admin"
+                        font.pixelSize: 28
+                        font.bold: true
+                        color: "#333333"
+                    }
 
-                            // Button
-                            Button {
-                                text: "Submit"
-                                width: 100
-                                anchors.horizontalCenter: parent.horizontalCenter
-                                background: Rectangle {
-                                                    color: "#4B5320"   // army green
-                                                    radius: 20
-                                }
-                                onClicked: {
-                                    stack.push(passwordcheck)   // push the Candidate page
-                                }
-                            }
-                            Button {
-                                text: "Back"
-                                onClicked: stack.pop()
-                            }
+                    // Password Field
+                    TextField {
+                        id: passwordInput
+                        Layout.fillWidth: true
+                        placeholderText: "Enter Admin Password"
+                        echoMode: TextField.Password
+                        focus: true
+                        enabled: !adminRoot.isLocked
+
+                        background: Rectangle {
+                            implicitHeight: 45
+                            radius: 6
+                            border.color: passwordInput.activeFocus ? "#3f51b5" : "#bdc3c7"
+                            border.width: passwordInput.activeFocus ? 2 : 1
                         }
 
+                        onAccepted: {
+                            if (text.trim().length > 0 && !adminRoot.isLocked) {
+                                loginButton.clicked()
+                            }
+                        }
+                    }
 
+                    Button {
+                        id: loginButton
+                        text: "Login"
+                        Layout.fillWidth: true
+                        enabled: !adminRoot.isLocked && passwordInput.text.trim().length > 0
 
+                        contentItem: Text {
+                            text: loginButton.text
+                            font.pixelSize: 16
+                            font.bold: true
+                            color: "white"
+                            horizontalAlignment: Text.AlignHCenter
+                            verticalAlignment: Text.AlignVCenter
+                        }
 
+                        background: Rectangle {
+                            implicitHeight: 45
+                            color: loginButton.enabled ?
+                                   (loginButton.pressed ? "#303f9f" : "#3f51b5")
+                                   : "#95a5a6"
+                            radius: 6
+                        }
+
+                        onClicked: {
+                            if (passwordInput.text === adminPassword) {
+                                statusText.text = "Access Granted!"
+                                statusText.color = "#27ae60"
+                                passwordInput.text = ""
+                                attempts = 0
+                            } else {
+                                attempts++
+                                passwordInput.text = ""
+
+                                if (attempts >= maxAttempts) {
+                                    startLockout()
+                                } else {
+                                    statusText.text =
+                                        "Wrong password! " +
+                                        (maxAttempts - attempts) +
+                                        " attempts left."
+                                    statusText.color = "#e74c3c"
+                                }
+                            }
+                        }
+                    }
+
+                    Text {
+                        id: statusText
+                        Layout.fillWidth: true
+                        horizontalAlignment: Text.AlignHCenter
+                        text: ""
+                        font.pixelSize: 14
+                        wrapMode: Text.WordWrap
+                    }
+                }
+
+                // Lockout Overlay
+                Rectangle {
+                    anchors.fill: parent
+                    color: "#EEFFFFFF"
+                    visible: adminRoot.isLocked
+
+                    MouseArea { anchors.fill: parent }
+
+                    ColumnLayout {
+                        anchors.centerIn: parent
+                        spacing: 10
+
+                        Text {
+                            Layout.alignment: Qt.AlignHCenter
+                            text: "Security Lockout"
+                            font.pixelSize: 22
+                            font.bold: true
+                            color: "#c0392b"
+                        }
+
+                        Text {
+                            Layout.alignment: Qt.AlignHCenter
+                            text: "Too many failed attempts."
+                            font.pixelSize: 14
+                        }
+
+                        Text {
+                            Layout.alignment: Qt.AlignHCenter
+                            text: "Try again in: " + adminRoot.remainingLockTime + "s"
+                            font.pixelSize: 24
+                            font.bold: true
+                            color: "#2c3e50"
+                        }
+                    }
+                }
+            }
+
+            function startLockout() {
+                adminRoot.isLocked = true
+                adminRoot.remainingLockTime = adminRoot.lockoutDuration
+                lockoutTimer.start()
+                statusText.text = ""
+            }
+
+            Timer {
+                id: lockoutTimer
+                interval: 1000
+                repeat: true
+                onTriggered: {
+                    adminRoot.remainingLockTime--
+
+                    if (adminRoot.remainingLockTime <= 0) {
+                        lockoutTimer.stop()
+                        adminRoot.isLocked = false
+                        adminRoot.attempts = 0
+                        passwordInput.focus = true
+                    }
+                }
+            }
         }
     }
 
@@ -133,18 +248,17 @@ ApplicationWindow {        // Use ApplicationWindow instead of Window for better
         id: candidatePage
 
         Page {
-
             Button {
                 text: "Back"
                 onClicked: stack.pop()
             }
         }
     }
+
     Component {
         id: passwordcheck
 
         Page {
-
             Button {
                 text: "Back"
                 onClicked: stack.pop()
