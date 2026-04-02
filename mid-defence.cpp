@@ -459,8 +459,7 @@ private:
             int remaining = (int)(remainingMs / 1000);
             if (remaining < 0) remaining = 0;
 
-            cout << "Your answer (type A, B, C or D) — Time left: " << remaining << "s: ";
-
+            
             fd_set inputSet;
             FD_ZERO(&inputSet);
             FD_SET(STDIN_FILENO, &inputSet);
