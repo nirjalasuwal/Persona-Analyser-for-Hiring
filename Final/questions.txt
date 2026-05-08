@@ -1,242 +1,242 @@
-QuestionID:5.1
-Trait: Neuroticism
-you are planning a trip that is three months away and thinking about preparation
-OptionID: 5.1A | make a basic plan and adjust as needed | Marks: 4
-OptionID: 5.1B | research extensively and create backup plans for potential issues | Marks: 1
-OptionID: 5.1C | start planning but frequently check if bookings are confirmed | Marks: 2
-OptionID: 5.1D | book essentials now and figure out details closer to the date | Marks: 3
+QuestionID:1.1
+Trait: Conscientiousness
+you are assigned a task outside your comfort zone
+OptionID: 1.1A | feel you can figure it out | Marks: 2
+OptionID: 1.1B | feel uncertain about your ability to do it well | Marks: 4
+OptionID: 1.1C | feel confident you will master it | Marks: 1
+OptionID: 1.1D | have some doubts but try anyway | Marks: 3
 ----------------------------------
-QuestionID:5.2
-Trait: Neuroticism
-your phone battery is at 20 percent and you are out for the day
-OptionID: 5.2A | mentally calculate how long it will last and what to do if it dies | Marks: 2
-OptionID: 5.2B | keep an eye on it and charge when convenient | Marks: 3
-OptionID: 5.2C | continue your activities normally | Marks: 4
-OptionID: 5.2D | immediately search for a charging point | Marks: 1
+QuestionID:1.2
+Trait: Conscientiousness
+when facing challenges you believe
+OptionID: 1.2A | you might not have what it takes | Marks: 4
+OptionID: 1.2B | you are highly effective and resourceful | Marks: 1
+OptionID: 1.2C | you are capable of handling most things | Marks: 2
+OptionID: 1.2D | you can manage with effort | Marks: 3
 ----------------------------------
-QuestionID:5.3
-Trait: Neuroticism
-you submit an important document and notice a small typo after submission
-OptionID: 5.3A | send a corrected version immediately | Marks: 3
-OptionID: 5.3B | worry that it might significantly impact the evaluation | Marks: 1
-OptionID: 5.3C | think about it occasionally throughout the day | Marks: 2
-OptionID: 5.3D | note it for future reference and move on | Marks: 4
+QuestionID:1.3
+Trait: Conscientiousness
+your self-assessment of your skills is
+OptionID: 1.3A | aware of limitations | Marks: 3
+OptionID: 1.3B | often doubtful | Marks: 4
+OptionID: 1.3C | confident in key areas | Marks: 2
+OptionID: 1.3D | strong across domains | Marks: 1
 ----------------------------------
-QuestionID:5.4
-Trait: Neuroticism
-your manager schedules an unexpected meeting titled quick discussion
-OptionID: 5.4A | prepare talking points for various possible topics | Marks: 3
-OptionID: 5.4B | ask colleagues if they know what it is about | Marks: 2
-OptionID: 5.4C | attend without overthinking the purpose | Marks: 4
-OptionID: 5.4D | spend time considering what might have gone wrong | Marks: 1
+QuestionID:1.4
+Trait: Conscientiousness
+when something goes wrong in your work
+OptionID: 1.4A | worry about specific skills | Marks: 3
+OptionID: 1.4B | stay confident and troubleshoot | Marks: 1
+OptionID: 1.4C | question your overall abilities | Marks: 4
+OptionID: 1.4D | see it as a learning moment | Marks: 2
 ----------------------------------
-QuestionID:5.5
-Trait: Neuroticism
-you are responsible for an event happening in two weeks
-OptionID: 5.5A | create contingency plans for multiple scenarios | Marks: 3
-OptionID: 5.5B | check in with vendors and participants more frequently than scheduled | Marks: 2
-OptionID: 5.5C | regularly imagine things that could go wrong | Marks: 1
-OptionID: 5.5D | follow your timeline and handle issues as they arise | Marks: 4
+QuestionID:1.5
+Trait: Conscientiousness
+you are asked to lead a project
+OptionID: 1.5A | feel ready and capable | Marks: 2
+OptionID: 1.5B | accept with some reservations | Marks: 3
+OptionID: 1.5C | feel anxious about your capability | Marks: 4
+OptionID: 1.5D | feel fully prepared and confident | Marks: 1
 ----------------------------------
-QuestionID:5.6
-Trait: Neuroticism
-someone cuts in front of you in a queue you have been waiting in for 10 minutes
-OptionID: 5.6A | feel annoyed but say nothing | Marks: 2
-OptionID: 5.6B | let it go without much thought | Marks: 4
-OptionID: 5.6C | make a comment loud enough for them to hear | Marks: 1
-OptionID: 5.6D | politely point out that there is a line | Marks: 3
+QuestionID:1.6
+Trait: Conscientiousness
+your workspace typically looks
+OptionID: 1.6A | generally tidy | Marks: 2
+OptionID: 1.6B | meticulously organized | Marks: 1
+OptionID: 1.6C | cluttered with items everywhere | Marks: 4
+OptionID: 1.6D | somewhat messy but functional | Marks: 3
 ----------------------------------
-QuestionID:5.7
-Trait: Neuroticism
-technology stops working when you are in the middle of important work
-OptionID: 5.7A | express your annoyance verbally or physically | Marks: 1
-OptionID: 5.7B | feel immediate frustration and need a moment before fixing it | Marks: 2
-OptionID: 5.7C | troubleshoot systematically | Marks: 3
-OptionID: 5.7D | switch to another task calmly | Marks: 4
+QuestionID:1.7
+Trait: Conscientiousness
+you organize files and documents
+OptionID: 1.7A | with a detailed systematic structure | Marks: 1
+OptionID: 1.7B | rarely and search when needed | Marks: 4
+OptionID: 1.7C | occasionally when things get messy | Marks: 3
+OptionID: 1.7D | regularly maintain organization | Marks: 2
 ----------------------------------
-QuestionID:5.8
-Trait: Neuroticism
-a colleague takes credit for an idea you shared in a previous conversation
-OptionID: 5.8A | feel irritated but decide if it is worth addressing | Marks: 2
-OptionID: 5.8B | mention it privately to the colleague | Marks: 4
-OptionID: 5.8C | clarify your contribution in the next appropriate moment | Marks: 3
-OptionID: 5.8D | immediately correct the record in front of everyone | Marks: 1
+QuestionID:1.8
+Trait: Conscientiousness
+your approach to physical and digital spaces
+OptionID: 1.8A | need everything in its proper place | Marks: 1
+OptionID: 1.8B | like things organized | Marks: 2
+OptionID: 1.8C | chaos does not bother you | Marks: 4
+OptionID: 1.8D | prefer some order but tolerate mess | Marks: 3
 ----------------------------------
-QuestionID:5.9
-Trait: Neuroticism
-you are explaining something for the third time to the same person
-OptionID: 5.9A | rephrase the explanation patiently | Marks: 3
-OptionID: 5.9B | express that you have already explained this | Marks: 1
-OptionID: 5.9C | show subtle signs of impatience | Marks: 2
-OptionID: 5.9D | try a different teaching approach | Marks: 4
+QuestionID:1.9
+Trait: Conscientiousness
+when you finish using something
+OptionID: 1.9A | leave it where it is | Marks: 4
+OptionID: 1.9B | usually return it to its place | Marks: 2
+OptionID: 1.9C | put it away sometimes | Marks: 3
+OptionID: 1.9D | immediately return it to its designated spot | Marks: 1
 ----------------------------------
-QuestionID:5.10
-Trait: Neuroticism
-traffic makes you late despite leaving on time
-OptionID: 5.10A | honk or show visible frustration | Marks: 1
-OptionID: 5.10B | use the time to listen to something interesting | Marks: 4
-OptionID: 5.10C | accept it as outside your control | Marks: 3
-OptionID: 5.10D | feel tense and grip the steering wheel tighter | Marks: 2
+QuestionID:1.10
+Trait: Conscientiousness
+disorder in your environment makes you
+OptionID: 1.10A | need to fix it immediately | Marks: 1
+OptionID: 1.10B | want to clean it soon | Marks: 2
+OptionID: 1.10C | slightly uncomfortable | Marks: 3
+OptionID: 1.10D | unbothered | Marks: 4
 ----------------------------------
-QuestionID:5.11
-Trait: Neuroticism
-your productivity varies significantly throughout the day
-OptionID: 5.11A | your motivation shifts noticeably between tasks | Marks: 2
-OptionID: 5.11B | you have slight ups and downs but stay on track | Marks: 3
-OptionID: 5.11C | you experience distinct high and low energy periods | Marks: 1
-OptionID: 5.11D | this rarely happens and you maintain steady output | Marks: 4
+QuestionID:1.11
+Trait: Conscientiousness
+you are part of a team project with unclear individual roles
+OptionID: 1.11A | do what is explicitly assigned to you | Marks: 4
+OptionID: 1.11B | contribute your share | Marks: 3
+OptionID: 1.11C | take initiative on undefined tasks | Marks: 2
+OptionID: 1.11D | ensure nothing falls through the cracks | Marks: 1
 ----------------------------------
-QuestionID:5.12
-Trait: Neuroticism
-after receiving criticism on one aspect of your work
-OptionID: 5.12A | you swing between defensiveness and self-doubt | Marks: 1
-OptionID: 5.12B | your mood affects your approach to other tasks | Marks: 2
-OptionID: 5.12C | you feel briefly discouraged but recover quickly | Marks: 3
-OptionID: 5.12D | you focus on improvement without emotional fluctuation | Marks: 4
+QuestionID:1.12
+Trait: Conscientiousness
+a deadline is approaching for something you are responsible for
+OptionID: 1.12A | finish early to ensure quality | Marks: 2
+OptionID: 1.12B | usually complete it on time | Marks: 3
+OptionID: 1.12C | complete it well ahead with contingency time | Marks: 1
+OptionID: 1.12D | work on it as the deadline nears | Marks: 4
 ----------------------------------
-QuestionID:5.13
-Trait: Neuroticism
-someone cancels plans you were looking forward to
-OptionID: 5.13A | your overall mood changes significantly | Marks: 1
-OptionID: 5.13B | feel disappointed but shift to other activities | Marks: 3
-OptionID: 5.13C | reschedule and move on with your day | Marks: 4
-OptionID: 5.13D | your enjoyment of the rest of the day is diminished | Marks: 2
+QuestionID:1.13
+Trait: Conscientiousness
+you notice a problem that is technically not your job
+OptionID: 1.13A | leave it for whoever is responsible | Marks: 4
+OptionID: 1.13B | take ownership and solve it | Marks: 1
+OptionID: 1.13C | address it if it is simple | Marks: 2
+OptionID: 1.13D | mention it to the appropriate person | Marks: 3
 ----------------------------------
-QuestionID:5.14
-Trait: Neuroticism
-how would you describe your emotional experience during a typical week
-OptionID: 5.14A | noticeably different from day to day | Marks: 2
-OptionID: 5.14B | highly variable depending on circumstances | Marks: 1
-OptionID: 5.14C | mostly consistent with minor variations | Marks: 3
-OptionID: 5.14D | generally stable with predictable patterns | Marks: 4
+QuestionID:1.14
+Trait: Conscientiousness
+your sense of obligation to commitments is
+OptionID: 1.14A | strong and dependable | Marks: 2
+OptionID: 1.14B | generally reliable | Marks: 3
+OptionID: 1.14C | unwavering and absolute | Marks: 1
+OptionID: 1.14D | flexible based on circumstances | Marks: 4
 ----------------------------------
-QuestionID:5.15
-Trait: Neuroticism
-after a social interaction that felt awkward
-OptionID: 5.15A | you process it briefly and forget about it | Marks: 4
-OptionID: 5.15B | you think about it occasionally but it does not affect your mood | Marks: 3
-OptionID: 5.15C | your emotional state shifts between embarrassment and normalcy | Marks: 1
-OptionID: 5.15D | your confidence in social settings fluctuates | Marks: 2
+QuestionID:1.15
+Trait: Conscientiousness
+when you make a promise
+OptionID: 1.15A | you mean it in the moment | Marks: 4
+OptionID: 1.15B | you try to follow through | Marks: 3
+OptionID: 1.15C | it is a guarantee you will not break | Marks: 1
+OptionID: 1.15D | you make sure to deliver | Marks: 2
 ----------------------------------
-QuestionID:5.16
-Trait: Neuroticism
-you are about to present in front of a group you do not know well
-OptionID: 5.16A | feel concerned about being judged negatively | Marks: 1
-OptionID: 5.16B | focus on content delivery | Marks: 4
-OptionID: 5.16C | think extensively about making a good impression | Marks: 2
-OptionID: 5.16D | wonder briefly how you will be perceived | Marks: 3
+QuestionID:1.16
+Trait: Conscientiousness
+when you complete a task adequately
+OptionID: 1.16A | you feel good about finishing | Marks: 3
+OptionID: 1.16B | you are satisfied and move on | Marks: 4
+OptionID: 1.16C | you want to do it well not just adequately | Marks: 2
+OptionID: 1.16D | you push yourself to exceed standards | Marks: 1
 ----------------------------------
-QuestionID:5.17
-Trait: Neuroticism
-you notice people whispering after you leave a conversation
-OptionID: 5.17A | consider briefly if it was about you then move on | Marks: 3
-OptionID: 5.17B | worry that you said something wrong | Marks: 1
-OptionID: 5.17C | feel uncomfortable and try to figure out what they said | Marks: 2
-OptionID: 5.17D | assume it is unrelated to you | Marks: 4
+QuestionID:1.17
+Trait: Conscientiousness
+your goals for yourself are
+OptionID: 1.17A | achievable with effort | Marks: 3
+OptionID: 1.17B | modest and realistic | Marks: 4
+OptionID: 1.17C | challenging but attainable | Marks: 2
+OptionID: 1.17D | highly ambitious | Marks: 1
 ----------------------------------
-QuestionID:5.18
-Trait: Neuroticism
-you are invited to a social gathering where you will know very few people
-OptionID: 5.18A | go but prefer to stay near familiar faces initially | Marks: 3
-OptionID: 5.18B | consider declining to avoid the discomfort | Marks: 1
-OptionID: 5.18C | attend and introduce yourself naturally | Marks: 4
-OptionID: 5.18D | feel anxious about making conversation | Marks: 2
+QuestionID:1.18
+Trait: Conscientiousness
+success and achievement in your work
+OptionID: 1.18A | are central to your identity and motivation | Marks: 1
+OptionID: 1.18B | are important to you | Marks: 3
+OptionID: 1.18C | matter but are not your primary focus | Marks: 4
+OptionID: 1.18D | drive much of your effort | Marks: 2
 ----------------------------------
-QuestionID:5.19
-Trait: Neuroticism
-after sharing an opinion in a group no one immediately responds
-OptionID: 5.19A | regret speaking up | Marks: 1
-OptionID: 5.19B | feel self-conscious about the comment | Marks: 2
-OptionID: 5.19C | briefly wonder if it was appropriate | Marks: 3
-OptionID: 5.19D | wait for the conversation to continue | Marks: 4
+QuestionID:1.19
+Trait: Conscientiousness
+when you perform at an average level
+OptionID: 1.19A | you are somewhat disappointed | Marks: 3
+OptionID: 1.19B | you are dissatisfied and push harder | Marks: 1
+OptionID: 1.19C | you are motivated to improve | Marks: 2
+OptionID: 1.19D | you are fine with it | Marks: 4
 ----------------------------------
-QuestionID:5.20
-Trait: Neuroticism
-you receive less interaction on a social media post than usual
-OptionID: 5.20A | do not notice or care about the difference | Marks: 4
-OptionID: 5.20B | notice but do not dwell on it | Marks: 3
-OptionID: 5.20C | wonder what caused the lower engagement | Marks: 2
-OptionID: 5.20D | feel concerned about how you are perceived online | Marks: 1
+QuestionID:1.20
+Trait: Conscientiousness
+your internal standards are
+OptionID: 1.20A | exceptionally demanding | Marks: 1
+OptionID: 1.20B | comfortable and reasonable | Marks: 4
+OptionID: 1.20C | moderate | Marks: 3
+OptionID: 1.20D | high | Marks: 2
 ----------------------------------
-QuestionID:5.21
-Trait: Neuroticism
-you have a free evening after a long week of work
-OptionID: 5.21A | catch up on pending tasks or responsibilities | Marks: 4
-OptionID: 5.21B | do something enjoyable without thinking about obligations | Marks: 2
-OptionID: 5.21C | indulge in comfort activities guilt-free | Marks: 1
-OptionID: 5.21D | balance rest with a productive activity | Marks: 3
+QuestionID:1.21
+Trait: Conscientiousness
+you have an important but unpleasant task to complete
+OptionID: 1.21A | procrastinate until necessary | Marks: 4
+OptionID: 1.21B | do it eventually with some delay | Marks: 3
+OptionID: 1.21C | do it immediately regardless of preference | Marks: 1
+OptionID: 1.21D | complete it despite not wanting to | Marks: 2
 ----------------------------------
-QuestionID:5.22
-Trait: Neuroticism
-there is an expensive item you want but do not necessarily need
-OptionID: 5.22A | wait and only buy if it fits your budget plan | Marks: 4
-OptionID: 5.22B | treat yourself without much deliberation | Marks: 1
-OptionID: 5.22C | buy it if it brings you joy | Marks: 2
-OptionID: 5.22D | consider it carefully before purchasing | Marks: 3
+QuestionID:1.22
+Trait: Conscientiousness
+distractions around you
+OptionID: 1.22A | do not impact your concentration | Marks: 1
+OptionID: 1.22B | slow you down sometimes | Marks: 3
+OptionID: 1.22C | affect you minimally | Marks: 2
+OptionID: 1.22D | easily derail your focus | Marks: 4
 ----------------------------------
-QuestionID:5.23
-Trait: Neuroticism
-you are trying to maintain a healthy routine but crave something indulgent
-OptionID: 5.23A | allow occasional exceptions within limits | Marks: 3
-OptionID: 5.23B | frequently make exceptions for comfort | Marks: 1
-OptionID: 5.23C | give in when the craving is strong | Marks: 2
-OptionID: 5.23D | stick to your routine consistently | Marks: 4
+QuestionID:1.23
+Trait: Conscientiousness
+when working on long-term goals
+OptionID: 1.23A | struggle to maintain consistent effort | Marks: 4
+OptionID: 1.23B | work on them irregularly | Marks: 3
+OptionID: 1.23C | maintain unwavering focus | Marks: 1
+OptionID: 1.23D | stay fairly consistent | Marks: 2
 ----------------------------------
-QuestionID:5.24
-Trait: Neuroticism
-when stressed your first instinct is to
-OptionID: 5.24A | engage in relaxing activities before dealing with it | Marks: 2
-OptionID: 5.24B | seek immediate comfort through pleasurable activities | Marks: 1
-OptionID: 5.24C | address the source of stress directly | Marks: 4
-OptionID: 5.24D | take a brief break then tackle the problem | Marks: 3
+QuestionID:1.24
+Trait: Conscientiousness
+your ability to resist temptations is
+OptionID: 1.24A | weak and you often give in | Marks: 4
+OptionID: 1.24B | very strong and you rarely give in | Marks: 1
+OptionID: 1.24C | moderate and you resist sometimes | Marks: 3
+OptionID: 1.24D | strong and you usually resist | Marks: 2
 ----------------------------------
-QuestionID:5.25
-Trait: Neuroticism
-you are on a tight deadline but feel mentally exhausted
-OptionID: 5.25A | work intermittently with frequent comfort breaks | Marks: 2
-OptionID: 5.25B | push through until the work is done | Marks: 4
-OptionID: 5.25C | take a strategic break and continue | Marks: 3
-OptionID: 5.25D | prioritize rest and deal with consequences later | Marks: 1
+QuestionID:1.25
+Trait: Conscientiousness
+following through on intentions
+OptionID: 1.25A | consistently happens | Marks: 2
+OptionID: 1.25B | always happens without exception | Marks: 1
+OptionID: 1.25C | happens sometimes | Marks: 4
+OptionID: 1.25D | usually happens | Marks: 3
 ----------------------------------
-QuestionID:5.26
-Trait: Neuroticism
-multiple urgent tasks arrive simultaneously
-OptionID: 5.26A | feel the pressure but maintain productivity | Marks: 3
-OptionID: 5.26B | feel overwhelmed and unsure where to start | Marks: 1
-OptionID: 5.26C | prioritize and execute systematically | Marks: 4
-OptionID: 5.26D | experience difficulty focusing | Marks: 2
+QuestionID:1.26
+Trait: Conscientiousness
+before making an important decision you
+OptionID: 1.26A | think it over briefly | Marks: 3
+OptionID: 1.26B | go with your gut quickly | Marks: 4
+OptionID: 1.26C | carefully weigh options | Marks: 2
+OptionID: 1.26D | analyze thoroughly from all angles | Marks: 1
 ----------------------------------
-QuestionID:5.27
-Trait: Neuroticism
-you are managing a project with constantly changing requirements
-OptionID: 5.27A | struggle to maintain clarity under the uncertainty | Marks: 1
-OptionID: 5.27B | find the instability mentally taxing | Marks: 2
-OptionID: 5.27C | adjust with minor frustration | Marks: 3
-OptionID: 5.27D | adapt each change into your workflow smoothly | Marks: 4
+QuestionID:1.27
+Trait: Conscientiousness
+when planning projects you
+OptionID: 1.27A | develop comprehensive plans with contingencies | Marks: 1
+OptionID: 1.27B | start and figure it out as you go | Marks: 4
+OptionID: 1.27C | make a basic outline | Marks: 3
+OptionID: 1.27D | create a detailed plan | Marks: 2
 ----------------------------------
-QuestionID:5.28
-Trait: Neuroticism
-during a high-stakes situation your performance
-OptionID: 5.28A | remains stable with slightly elevated tension | Marks: 3
-OptionID: 5.28B | drops noticeably as stress increases | Marks: 1
-OptionID: 5.28C | improves or stays consistent | Marks: 4
-OptionID: 5.28D | decreases somewhat due to pressure | Marks: 2
+QuestionID:1.28
+Trait: Conscientiousness
+your approach to problems is
+OptionID: 1.28A | consider all possibilities systematically | Marks: 1
+OptionID: 1.28B | act quickly and adjust | Marks: 4
+OptionID: 1.28C | think briefly then act | Marks: 3
+OptionID: 1.28D | think through carefully before acting | Marks: 2
 ----------------------------------
-QuestionID:5.29
-Trait: Neuroticism
-you have back-to-back commitments with no buffer time
-OptionID: 5.29A | feel exhausted and mentally scattered | Marks: 1
-OptionID: 5.29B | feel rushed but manage everything | Marks: 3
-OptionID: 5.29C | execute each commitment without feeling strained | Marks: 4
-OptionID: 5.29D | experience mounting tension throughout | Marks: 2
+QuestionID:1.29
+Trait: Conscientiousness
+you prefer to
+OptionID: 1.29A | be spontaneous and flexible | Marks: 4
+OptionID: 1.29B | have some structure but stay adaptable | Marks: 3
+OptionID: 1.29C | plan ahead | Marks: 2
+OptionID: 1.29D | have everything mapped out in detail | Marks: 1
 ----------------------------------
-QuestionID:5.30
-Trait: Neuroticism
-when facing criticism during a stressful period
-OptionID: 5.30A | process it objectively regardless of other pressures | Marks: 4
-OptionID: 5.30B | absorb it with slight emotional reaction | Marks: 3
-OptionID: 5.30C | find it harder to handle than usual | Marks: 2
-OptionID: 5.30D | feel significantly more affected than you would normally | Marks: 1
+QuestionID:1.30
+Trait: Conscientiousness
+before speaking or acting you
+OptionID: 1.30A | rarely think about consequences | Marks: 4
+OptionID: 1.30B | usually think through implications | Marks: 2
+OptionID: 1.30C | consider them briefly | Marks: 3
+OptionID: 1.30D | always carefully consider all potential outcomes | Marks: 1
 ----------------------------------
 QuestionID:2.1
 Trait: Openness
@@ -958,243 +958,243 @@ OptionID: 4.30B | feel for them and look for ways to help | Marks: 2
 OptionID: 4.30C | notice but do not get involved | Marks: 4
 OptionID: 4.30D | help if asked or if it is easy | Marks: 3
 ----------------------------------
-QuestionID:1.1
-Trait: Conscientiousness
-you are assigned a task outside your comfort zone
-OptionID: 1.1A | feel you can figure it out | Marks: 2
-OptionID: 1.1B | feel uncertain about your ability to do it well | Marks: 4
-OptionID: 1.1C | feel confident you will master it | Marks: 1
-OptionID: 1.1D | have some doubts but try anyway | Marks: 3
+QuestionID:5.1
+Trait: Neuroticism
+you are planning a trip that is three months away and thinking about preparation
+OptionID: 5.1A | make a basic plan and adjust as needed | Marks: 4
+OptionID: 5.1B | research extensively and create backup plans for potential issues | Marks: 1
+OptionID: 5.1C | start planning but frequently check if bookings are confirmed | Marks: 2
+OptionID: 5.1D | book essentials now and figure out details closer to the date | Marks: 3
 ----------------------------------
-QuestionID:1.2
-Trait: Conscientiousness
-when facing challenges you believe
-OptionID: 1.2A | you might not have what it takes | Marks: 4
-OptionID: 1.2B | you are highly effective and resourceful | Marks: 1
-OptionID: 1.2C | you are capable of handling most things | Marks: 2
-OptionID: 1.2D | you can manage with effort | Marks: 3
+QuestionID:5.2
+Trait: Neuroticism
+your phone battery is at 20 percent and you are out for the day
+OptionID: 5.2A | mentally calculate how long it will last and what to do if it dies | Marks: 2
+OptionID: 5.2B | keep an eye on it and charge when convenient | Marks: 3
+OptionID: 5.2C | continue your activities normally | Marks: 4
+OptionID: 5.2D | immediately search for a charging point | Marks: 1
 ----------------------------------
-QuestionID:1.3
-Trait: Conscientiousness
-your self-assessment of your skills is
-OptionID: 1.3A | aware of limitations | Marks: 3
-OptionID: 1.3B | often doubtful | Marks: 4
-OptionID: 1.3C | confident in key areas | Marks: 2
-OptionID: 1.3D | strong across domains | Marks: 1
+QuestionID:5.3
+Trait: Neuroticism
+you submit an important document and notice a small typo after submission
+OptionID: 5.3A | send a corrected version immediately | Marks: 3
+OptionID: 5.3B | worry that it might significantly impact the evaluation | Marks: 1
+OptionID: 5.3C | think about it occasionally throughout the day | Marks: 2
+OptionID: 5.3D | note it for future reference and move on | Marks: 4
 ----------------------------------
-QuestionID:1.4
-Trait: Conscientiousness
-when something goes wrong in your work
-OptionID: 1.4A | worry about specific skills | Marks: 3
-OptionID: 1.4B | stay confident and troubleshoot | Marks: 1
-OptionID: 1.4C | question your overall abilities | Marks: 4
-OptionID: 1.4D | see it as a learning moment | Marks: 2
+QuestionID:5.4
+Trait: Neuroticism
+your manager schedules an unexpected meeting titled quick discussion
+OptionID: 5.4A | prepare talking points for various possible topics | Marks: 3
+OptionID: 5.4B | ask colleagues if they know what it is about | Marks: 2
+OptionID: 5.4C | attend without overthinking the purpose | Marks: 4
+OptionID: 5.4D | spend time considering what might have gone wrong | Marks: 1
 ----------------------------------
-QuestionID:1.5
-Trait: Conscientiousness
-you are asked to lead a project
-OptionID: 1.5A | feel ready and capable | Marks: 2
-OptionID: 1.5B | accept with some reservations | Marks: 3
-OptionID: 1.5C | feel anxious about your capability | Marks: 4
-OptionID: 1.5D | feel fully prepared and confident | Marks: 1
+QuestionID:5.5
+Trait: Neuroticism
+you are responsible for an event happening in two weeks
+OptionID: 5.5A | create contingency plans for multiple scenarios | Marks: 3
+OptionID: 5.5B | check in with vendors and participants more frequently than scheduled | Marks: 2
+OptionID: 5.5C | regularly imagine things that could go wrong | Marks: 1
+OptionID: 5.5D | follow your timeline and handle issues as they arise | Marks: 4
 ----------------------------------
-QuestionID:1.6
-Trait: Conscientiousness
-your workspace typically looks
-OptionID: 1.6A | generally tidy | Marks: 2
-OptionID: 1.6B | meticulously organized | Marks: 1
-OptionID: 1.6C | cluttered with items everywhere | Marks: 4
-OptionID: 1.6D | somewhat messy but functional | Marks: 3
+QuestionID:5.6
+Trait: Neuroticism
+someone cuts in front of you in a queue you have been waiting in for 10 minutes
+OptionID: 5.6A | feel annoyed but say nothing | Marks: 2
+OptionID: 5.6B | let it go without much thought | Marks: 4
+OptionID: 5.6C | make a comment loud enough for them to hear | Marks: 1
+OptionID: 5.6D | politely point out that there is a line | Marks: 3
 ----------------------------------
-QuestionID:1.7
-Trait: Conscientiousness
-you organize files and documents
-OptionID: 1.7A | with a detailed systematic structure | Marks: 1
-OptionID: 1.7B | rarely and search when needed | Marks: 4
-OptionID: 1.7C | occasionally when things get messy | Marks: 3
-OptionID: 1.7D | regularly maintain organization | Marks: 2
+QuestionID:5.7
+Trait: Neuroticism
+technology stops working when you are in the middle of important work
+OptionID: 5.7A | express your annoyance verbally or physically | Marks: 1
+OptionID: 5.7B | feel immediate frustration and need a moment before fixing it | Marks: 2
+OptionID: 5.7C | troubleshoot systematically | Marks: 3
+OptionID: 5.7D | switch to another task calmly | Marks: 4
 ----------------------------------
-QuestionID:1.8
-Trait: Conscientiousness
-your approach to physical and digital spaces
-OptionID: 1.8A | need everything in its proper place | Marks: 1
-OptionID: 1.8B | like things organized | Marks: 2
-OptionID: 1.8C | chaos does not bother you | Marks: 4
-OptionID: 1.8D | prefer some order but tolerate mess | Marks: 3
+QuestionID:5.8
+Trait: Neuroticism
+a colleague takes credit for an idea you shared in a previous conversation
+OptionID: 5.8A | feel irritated but decide if it is worth addressing | Marks: 2
+OptionID: 5.8B | mention it privately to the colleague | Marks: 4
+OptionID: 5.8C | clarify your contribution in the next appropriate moment | Marks: 3
+OptionID: 5.8D | immediately correct the record in front of everyone | Marks: 1
 ----------------------------------
-QuestionID:1.9
-Trait: Conscientiousness
-when you finish using something
-OptionID: 1.9A | leave it where it is | Marks: 4
-OptionID: 1.9B | usually return it to its place | Marks: 2
-OptionID: 1.9C | put it away sometimes | Marks: 3
-OptionID: 1.9D | immediately return it to its designated spot | Marks: 1
+QuestionID:5.9
+Trait: Neuroticism
+you are explaining something for the third time to the same person
+OptionID: 5.9A | rephrase the explanation patiently | Marks: 3
+OptionID: 5.9B | express that you have already explained this | Marks: 1
+OptionID: 5.9C | show subtle signs of impatience | Marks: 2
+OptionID: 5.9D | try a different teaching approach | Marks: 4
 ----------------------------------
-QuestionID:1.10
-Trait: Conscientiousness
-disorder in your environment makes you
-OptionID: 1.10A | need to fix it immediately | Marks: 1
-OptionID: 1.10B | want to clean it soon | Marks: 2
-OptionID: 1.10C | slightly uncomfortable | Marks: 3
-OptionID: 1.10D | unbothered | Marks: 4
+QuestionID:5.10
+Trait: Neuroticism
+traffic makes you late despite leaving on time
+OptionID: 5.10A | honk or show visible frustration | Marks: 1
+OptionID: 5.10B | use the time to listen to something interesting | Marks: 4
+OptionID: 5.10C | accept it as outside your control | Marks: 3
+OptionID: 5.10D | feel tense and grip the steering wheel tighter | Marks: 2
 ----------------------------------
-QuestionID:1.11
-Trait: Conscientiousness
-you are part of a team project with unclear individual roles
-OptionID: 1.11A | do what is explicitly assigned to you | Marks: 4
-OptionID: 1.11B | contribute your share | Marks: 3
-OptionID: 1.11C | take initiative on undefined tasks | Marks: 2
-OptionID: 1.11D | ensure nothing falls through the cracks | Marks: 1
+QuestionID:5.11
+Trait: Neuroticism
+your productivity varies significantly throughout the day
+OptionID: 5.11A | your motivation shifts noticeably between tasks | Marks: 2
+OptionID: 5.11B | you have slight ups and downs but stay on track | Marks: 3
+OptionID: 5.11C | you experience distinct high and low energy periods | Marks: 1
+OptionID: 5.11D | this rarely happens and you maintain steady output | Marks: 4
 ----------------------------------
-QuestionID:1.12
-Trait: Conscientiousness
-a deadline is approaching for something you are responsible for
-OptionID: 1.12A | finish early to ensure quality | Marks: 2
-OptionID: 1.12B | usually complete it on time | Marks: 3
-OptionID: 1.12C | complete it well ahead with contingency time | Marks: 1
-OptionID: 1.12D | work on it as the deadline nears | Marks: 4
+QuestionID:5.12
+Trait: Neuroticism
+after receiving criticism on one aspect of your work
+OptionID: 5.12A | you swing between defensiveness and self-doubt | Marks: 1
+OptionID: 5.12B | your mood affects your approach to other tasks | Marks: 2
+OptionID: 5.12C | you feel briefly discouraged but recover quickly | Marks: 3
+OptionID: 5.12D | you focus on improvement without emotional fluctuation | Marks: 4
 ----------------------------------
-QuestionID:1.13
-Trait: Conscientiousness
-you notice a problem that is technically not your job
-OptionID: 1.13A | leave it for whoever is responsible | Marks: 4
-OptionID: 1.13B | take ownership and solve it | Marks: 1
-OptionID: 1.13C | address it if it is simple | Marks: 2
-OptionID: 1.13D | mention it to the appropriate person | Marks: 3
+QuestionID:5.13
+Trait: Neuroticism
+someone cancels plans you were looking forward to
+OptionID: 5.13A | your overall mood changes significantly | Marks: 1
+OptionID: 5.13B | feel disappointed but shift to other activities | Marks: 3
+OptionID: 5.13C | reschedule and move on with your day | Marks: 4
+OptionID: 5.13D | your enjoyment of the rest of the day is diminished | Marks: 2
 ----------------------------------
-QuestionID:1.14
-Trait: Conscientiousness
-your sense of obligation to commitments is
-OptionID: 1.14A | strong and dependable | Marks: 2
-OptionID: 1.14B | generally reliable | Marks: 3
-OptionID: 1.14C | unwavering and absolute | Marks: 1
-OptionID: 1.14D | flexible based on circumstances | Marks: 4
+QuestionID:5.14
+Trait: Neuroticism
+how would you describe your emotional experience during a typical week
+OptionID: 5.14A | noticeably different from day to day | Marks: 2
+OptionID: 5.14B | highly variable depending on circumstances | Marks: 1
+OptionID: 5.14C | mostly consistent with minor variations | Marks: 3
+OptionID: 5.14D | generally stable with predictable patterns | Marks: 4
 ----------------------------------
-QuestionID:1.15
-Trait: Conscientiousness
-when you make a promise
-OptionID: 1.15A | you mean it in the moment | Marks: 4
-OptionID: 1.15B | you try to follow through | Marks: 3
-OptionID: 1.15C | it is a guarantee you will not break | Marks: 1
-OptionID: 1.15D | you make sure to deliver | Marks: 2
+QuestionID:5.15
+Trait: Neuroticism
+after a social interaction that felt awkward
+OptionID: 5.15A | you process it briefly and forget about it | Marks: 4
+OptionID: 5.15B | you think about it occasionally but it does not affect your mood | Marks: 3
+OptionID: 5.15C | your emotional state shifts between embarrassment and normalcy | Marks: 1
+OptionID: 5.15D | your confidence in social settings fluctuates | Marks: 2
 ----------------------------------
-QuestionID:1.16
-Trait: Conscientiousness
-when you complete a task adequately
-OptionID: 1.16A | you feel good about finishing | Marks: 3
-OptionID: 1.16B | you are satisfied and move on | Marks: 4
-OptionID: 1.16C | you want to do it well not just adequately | Marks: 2
-OptionID: 1.16D | you push yourself to exceed standards | Marks: 1
+QuestionID:5.16
+Trait: Neuroticism
+you are about to present in front of a group you do not know well
+OptionID: 5.16A | feel concerned about being judged negatively | Marks: 1
+OptionID: 5.16B | focus on content delivery | Marks: 4
+OptionID: 5.16C | think extensively about making a good impression | Marks: 2
+OptionID: 5.16D | wonder briefly how you will be perceived | Marks: 3
 ----------------------------------
-QuestionID:1.17
-Trait: Conscientiousness
-your goals for yourself are
-OptionID: 1.17A | achievable with effort | Marks: 3
-OptionID: 1.17B | modest and realistic | Marks: 4
-OptionID: 1.17C | challenging but attainable | Marks: 2
-OptionID: 1.17D | highly ambitious | Marks: 1
+QuestionID:5.17
+Trait: Neuroticism
+you notice people whispering after you leave a conversation
+OptionID: 5.17A | consider briefly if it was about you then move on | Marks: 3
+OptionID: 5.17B | worry that you said something wrong | Marks: 1
+OptionID: 5.17C | feel uncomfortable and try to figure out what they said | Marks: 2
+OptionID: 5.17D | assume it is unrelated to you | Marks: 4
 ----------------------------------
-QuestionID:1.18
-Trait: Conscientiousness
-success and achievement in your work
-OptionID: 1.18A | are central to your identity and motivation | Marks: 1
-OptionID: 1.18B | are important to you | Marks: 3
-OptionID: 1.18C | matter but are not your primary focus | Marks: 4
-OptionID: 1.18D | drive much of your effort | Marks: 2
+QuestionID:5.18
+Trait: Neuroticism
+you are invited to a social gathering where you will know very few people
+OptionID: 5.18A | go but prefer to stay near familiar faces initially | Marks: 3
+OptionID: 5.18B | consider declining to avoid the discomfort | Marks: 1
+OptionID: 5.18C | attend and introduce yourself naturally | Marks: 4
+OptionID: 5.18D | feel anxious about making conversation | Marks: 2
 ----------------------------------
-QuestionID:1.19
-Trait: Conscientiousness
-when you perform at an average level
-OptionID: 1.19A | you are somewhat disappointed | Marks: 3
-OptionID: 1.19B | you are dissatisfied and push harder | Marks: 1
-OptionID: 1.19C | you are motivated to improve | Marks: 2
-OptionID: 1.19D | you are fine with it | Marks: 4
+QuestionID:5.19
+Trait: Neuroticism
+after sharing an opinion in a group no one immediately responds
+OptionID: 5.19A | regret speaking up | Marks: 1
+OptionID: 5.19B | feel self-conscious about the comment | Marks: 2
+OptionID: 5.19C | briefly wonder if it was appropriate | Marks: 3
+OptionID: 5.19D | wait for the conversation to continue | Marks: 4
 ----------------------------------
-QuestionID:1.20
-Trait: Conscientiousness
-your internal standards are
-OptionID: 1.20A | exceptionally demanding | Marks: 1
-OptionID: 1.20B | comfortable and reasonable | Marks: 4
-OptionID: 1.20C | moderate | Marks: 3
-OptionID: 1.20D | high | Marks: 2
+QuestionID:5.20
+Trait: Neuroticism
+you receive less interaction on a social media post than usual
+OptionID: 5.20A | do not notice or care about the difference | Marks: 4
+OptionID: 5.20B | notice but do not dwell on it | Marks: 3
+OptionID: 5.20C | wonder what caused the lower engagement | Marks: 2
+OptionID: 5.20D | feel concerned about how you are perceived online | Marks: 1
 ----------------------------------
-QuestionID:1.21
-Trait: Conscientiousness
-you have an important but unpleasant task to complete
-OptionID: 1.21A | procrastinate until necessary | Marks: 4
-OptionID: 1.21B | do it eventually with some delay | Marks: 3
-OptionID: 1.21C | do it immediately regardless of preference | Marks: 1
-OptionID: 1.21D | complete it despite not wanting to | Marks: 2
+QuestionID:5.21
+Trait: Neuroticism
+you have a free evening after a long week of work
+OptionID: 5.21A | catch up on pending tasks or responsibilities | Marks: 4
+OptionID: 5.21B | do something enjoyable without thinking about obligations | Marks: 2
+OptionID: 5.21C | indulge in comfort activities guilt-free | Marks: 1
+OptionID: 5.21D | balance rest with a productive activity | Marks: 3
 ----------------------------------
-QuestionID:1.22
-Trait: Conscientiousness
-distractions around you
-OptionID: 1.22A | do not impact your concentration | Marks: 1
-OptionID: 1.22B | slow you down sometimes | Marks: 3
-OptionID: 1.22C | affect you minimally | Marks: 2
-OptionID: 1.22D | easily derail your focus | Marks: 4
+QuestionID:5.22
+Trait: Neuroticism
+there is an expensive item you want but do not necessarily need
+OptionID: 5.22A | wait and only buy if it fits your budget plan | Marks: 4
+OptionID: 5.22B | treat yourself without much deliberation | Marks: 1
+OptionID: 5.22C | buy it if it brings you joy | Marks: 2
+OptionID: 5.22D | consider it carefully before purchasing | Marks: 3
 ----------------------------------
-QuestionID:1.23
-Trait: Conscientiousness
-when working on long-term goals
-OptionID: 1.23A | struggle to maintain consistent effort | Marks: 4
-OptionID: 1.23B | work on them irregularly | Marks: 3
-OptionID: 1.23C | maintain unwavering focus | Marks: 1
-OptionID: 1.23D | stay fairly consistent | Marks: 2
+QuestionID:5.23
+Trait: Neuroticism
+you are trying to maintain a healthy routine but crave something indulgent
+OptionID: 5.23A | allow occasional exceptions within limits | Marks: 3
+OptionID: 5.23B | frequently make exceptions for comfort | Marks: 1
+OptionID: 5.23C | give in when the craving is strong | Marks: 2
+OptionID: 5.23D | stick to your routine consistently | Marks: 4
 ----------------------------------
-QuestionID:1.24
-Trait: Conscientiousness
-your ability to resist temptations is
-OptionID: 1.24A | weak and you often give in | Marks: 4
-OptionID: 1.24B | very strong and you rarely give in | Marks: 1
-OptionID: 1.24C | moderate and you resist sometimes | Marks: 3
-OptionID: 1.24D | strong and you usually resist | Marks: 2
+QuestionID:5.24
+Trait: Neuroticism
+when stressed your first instinct is to
+OptionID: 5.24A | engage in relaxing activities before dealing with it | Marks: 2
+OptionID: 5.24B | seek immediate comfort through pleasurable activities | Marks: 1
+OptionID: 5.24C | address the source of stress directly | Marks: 4
+OptionID: 5.24D | take a brief break then tackle the problem | Marks: 3
 ----------------------------------
-QuestionID:1.25
-Trait: Conscientiousness
-following through on intentions
-OptionID: 1.25A | consistently happens | Marks: 2
-OptionID: 1.25B | always happens without exception | Marks: 1
-OptionID: 1.25C | happens sometimes | Marks: 4
-OptionID: 1.25D | usually happens | Marks: 3
+QuestionID:5.25
+Trait: Neuroticism
+you are on a tight deadline but feel mentally exhausted
+OptionID: 5.25A | work intermittently with frequent comfort breaks | Marks: 2
+OptionID: 5.25B | push through until the work is done | Marks: 4
+OptionID: 5.25C | take a strategic break and continue | Marks: 3
+OptionID: 5.25D | prioritize rest and deal with consequences later | Marks: 1
 ----------------------------------
-QuestionID:1.26
-Trait: Conscientiousness
-before making an important decision you
-OptionID: 1.26A | think it over briefly | Marks: 3
-OptionID: 1.26B | go with your gut quickly | Marks: 4
-OptionID: 1.26C | carefully weigh options | Marks: 2
-OptionID: 1.26D | analyze thoroughly from all angles | Marks: 1
+QuestionID:5.26
+Trait: Neuroticism
+multiple urgent tasks arrive simultaneously
+OptionID: 5.26A | feel the pressure but maintain productivity | Marks: 3
+OptionID: 5.26B | feel overwhelmed and unsure where to start | Marks: 1
+OptionID: 5.26C | prioritize and execute systematically | Marks: 4
+OptionID: 5.26D | experience difficulty focusing | Marks: 2
 ----------------------------------
-QuestionID:1.27
-Trait: Conscientiousness
-when planning projects you
-OptionID: 1.27A | develop comprehensive plans with contingencies | Marks: 1
-OptionID: 1.27B | start and figure it out as you go | Marks: 4
-OptionID: 1.27C | make a basic outline | Marks: 3
-OptionID: 1.27D | create a detailed plan | Marks: 2
+QuestionID:5.27
+Trait: Neuroticism
+you are managing a project with constantly changing requirements
+OptionID: 5.27A | struggle to maintain clarity under the uncertainty | Marks: 1
+OptionID: 5.27B | find the instability mentally taxing | Marks: 2
+OptionID: 5.27C | adjust with minor frustration | Marks: 3
+OptionID: 5.27D | adapt each change into your workflow smoothly | Marks: 4
 ----------------------------------
-QuestionID:1.28
-Trait: Conscientiousness
-your approach to problems is
-OptionID: 1.28A | consider all possibilities systematically | Marks: 1
-OptionID: 1.28B | act quickly and adjust | Marks: 4
-OptionID: 1.28C | think briefly then act | Marks: 3
-OptionID: 1.28D | think through carefully before acting | Marks: 2
+QuestionID:5.28
+Trait: Neuroticism
+during a high-stakes situation your performance
+OptionID: 5.28A | remains stable with slightly elevated tension | Marks: 3
+OptionID: 5.28B | drops noticeably as stress increases | Marks: 1
+OptionID: 5.28C | improves or stays consistent | Marks: 4
+OptionID: 5.28D | decreases somewhat due to pressure | Marks: 2
 ----------------------------------
-QuestionID:1.29
-Trait: Conscientiousness
-you prefer to
-OptionID: 1.29A | be spontaneous and flexible | Marks: 4
-OptionID: 1.29B | have some structure but stay adaptable | Marks: 3
-OptionID: 1.29C | plan ahead | Marks: 2
-OptionID: 1.29D | have everything mapped out in detail | Marks: 1
+QuestionID:5.29
+Trait: Neuroticism
+you have back-to-back commitments with no buffer time
+OptionID: 5.29A | feel exhausted and mentally scattered | Marks: 1
+OptionID: 5.29B | feel rushed but manage everything | Marks: 3
+OptionID: 5.29C | execute each commitment without feeling strained | Marks: 4
+OptionID: 5.29D | experience mounting tension throughout | Marks: 2
 ----------------------------------
-QuestionID:1.30
-Trait: Conscientiousness
-before speaking or acting you
-OptionID: 1.30A | rarely think about consequences | Marks: 4
-OptionID: 1.30B | usually think through implications | Marks: 2
-OptionID: 1.30C | consider them briefly | Marks: 3
-OptionID: 1.30D | always carefully consider all potential outcomes | Marks: 1
+QuestionID:5.30
+Trait: Neuroticism
+when facing criticism during a stressful period
+OptionID: 5.30A | process it objectively regardless of other pressures | Marks: 4
+OptionID: 5.30B | absorb it with slight emotional reaction | Marks: 3
+OptionID: 5.30C | find it harder to handle than usual | Marks: 2
+OptionID: 5.30D | feel significantly more affected than you would normally | Marks: 1
 ----------------------------------
