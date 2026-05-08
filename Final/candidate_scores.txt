@@ -1,0 +1,116 @@
+================================================
+        NEPAL ARMY - CANDIDATE SCORE SUMMARY
+================================================
+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C001
+Name        : Nirjala
+Age         : 19
+Phone       : 23423423
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 10/20  [MODERATE]
+   -> Occasionally affected by stress, generally manages emotions adequately.
+
+2. Openness          : 14/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
+
+3. Extraversion      : 16/20  [HIGH]
+   -> Highly sociable, natural communicator, strong in leadership/team roles.
+
+4. Agreeableness     : 15/20  [MODERATE]
+   -> Cooperative yet capable of standing firm when needed.
+
+5. Conscientiousness : 9/20  [LOW]
+   -> Flexible but may lack structure, needs external direction.
+
+------------------------------------------------
+OVERALL SCORE            : 64/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Extraversion (16/20)
+  Weakest Trait    : Conscientiousness (9/20)
+
+
+  +======================================================+
+  ||        PERSONALITY TRAIT PROFILE - BAR CHART       ||
+  ||             Score Range: 5 (Low) to 20 (High)      ||
+  +======================================================+
+
+                       5    7    9   11   13   15   17   19  20
+                       |    |    |    |    |    |    |    |   |
+                       [====LOW=====][===MODERATE===][===HIGH===]
+
+  Neuroticism       |#############...|..........|............| 10/20 (50%)  [ MODERATE ]
+  Openness          |################|=======...|............| 14/20 (70%)  [ MODERATE ]
+  Extraversion      |################|==========|*...........| 16/20 (80%)  [ HIGH     ]
+  Agreeableness     |################|=========.|............| 15/20 (75%)  [ MODERATE ]
+  Conscientiousness |##########......|..........|............|  9/20 (45%)  [ LOW      ]
+
+                       [====LOW=====][===MODERATE===][===HIGH===]
+                       5          9  10          15  16         20
+
+  LEGEND:  ### LOW (5-9)   === MODERATE (10-15)   *** HIGH (16-20)
+  +======================================================+
+
+================================================
+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C002
+Name        : Sanish
+Age         : 20
+Phone       : 2202020202
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 13/20  [MODERATE]
+   -> Occasionally affected by stress, generally manages emotions adequately.
+
+2. Openness          : 13/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
+
+3. Extraversion      : 12/20  [MODERATE]
+   -> Comfortable in both team and solo tasks, situationally assertive.
+
+4. Agreeableness     : 14/20  [MODERATE]
+   -> Cooperative yet capable of standing firm when needed.
+
+5. Conscientiousness : 13/20  [MODERATE]
+   -> Reasonably organized and reliable under normal conditions.
+
+------------------------------------------------
+OVERALL SCORE            : 65/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Agreeableness (14/20)
+  Weakest Trait    : Extraversion (12/20)
+
+
+  +======================================================+
+  ||        PERSONALITY TRAIT PROFILE - BAR CHART       ||
+  ||             Score Range: 5 (Low) to 20 (High)      ||
+  +======================================================+
+
+                       5    7    9   11   13   15   17   19  20
+                       |    |    |    |    |    |    |    |   |
+                       [====LOW=====][===MODERATE===][===HIGH===]
+
+  Neuroticism       |################|====......|............| 13/20 (65%)  [ MODERATE ]
+  Openness          |################|====......|............| 13/20 (65%)  [ MODERATE ]
+  Extraversion      |################|=.........|............| 12/20 (60%)  [ MODERATE ]
+  Agreeableness     |################|=======...|............| 14/20 (70%)  [ MODERATE ]
+  Conscientiousness |################|====......|............| 13/20 (65%)  [ MODERATE ]
+
+                       [====LOW=====][===MODERATE===][===HIGH===]
+                       5          9  10          15  16         20
+
+  LEGEND:  ### LOW (5-9)   === MODERATE (10-15)   *** HIGH (16-20)
+  +======================================================+
+
+================================================
+

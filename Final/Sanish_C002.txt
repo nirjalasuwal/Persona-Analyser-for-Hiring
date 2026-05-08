@@ -1,0 +1,208 @@
+CandidateID: C002
+Name: Sanish
+Age: 20
+Phone: 2202020202
+==================================
+QuestionID: 1.1
+Trait: Conscientiousness
+Question: you are assigned a task outside your comfort zone
+SelectedOption: A
+SelectedText: feel you can figure it out
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.6
+Trait: Conscientiousness
+Question: your workspace typically looks
+SelectedOption: A
+SelectedText: generally tidy
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.21
+Trait: Conscientiousness
+Question: you have an important but unpleasant task to complete
+SelectedOption: A
+SelectedText: procrastinate until necessary
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.24
+Trait: Conscientiousness
+Question: your ability to resist temptations is
+SelectedOption: A
+SelectedText: weak and you often give in
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.27
+Trait: Conscientiousness
+Question: when planning projects you
+SelectedOption: A
+SelectedText: develop comprehensive plans with contingencies
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.1
+Trait: Openness
+Question: when you have downtime you tend to
+SelectedOption: A
+SelectedText: let your mind wander to various scenarios
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.2
+Trait: Openness
+Question: a friend asks you to help brainstorm ideas for their project
+SelectedOption: A
+SelectedText: suggest practical proven approaches
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.4
+Trait: Openness
+Question: you are designing something new such as a space event or product
+SelectedOption: A
+SelectedText: use standard structures with personal touches
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.5
+Trait: Openness
+Question: during a conversation you are most engaged when discussing
+SelectedOption: A
+SelectedText: practical applications of ideas
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.14
+Trait: Openness
+Question: your emotional range in daily life
+SelectedOption: A
+SelectedText: spans very deep feelings regularly
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.3
+Trait: Extraversion
+Question: someone shares personal good news with you
+SelectedOption: A
+SelectedText: express happiness for them
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.8
+Trait: Extraversion
+Question: when entering a room full of people
+SelectedOption: A
+SelectedText: thrive on meeting and talking to everyone
+Marks: 1
+TimeTakenSeconds: 2
+----------------------------------
+QuestionID: 3.15
+Trait: Extraversion
+Question: when your rights or interests are at stake
+SelectedOption: A
+SelectedText: assertively ensure your position is respected
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.19
+Trait: Extraversion
+Question: your energy levels throughout the day are
+SelectedOption: A
+SelectedText: calm and conserved
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.26
+Trait: Extraversion
+Question: throughout your day you typically feel
+SelectedOption: A
+SelectedText: mildly content
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.4
+Trait: Agreeableness
+Question: a colleague asks to borrow something valuable
+SelectedOption: A
+SelectedText: decline or make an excuse
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.12
+Trait: Agreeableness
+Question: a colleague is struggling with their workload
+SelectedOption: A
+SelectedText: offer help if they ask
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.15
+Trait: Agreeableness
+Question: in group projects you
+SelectedOption: A
+SelectedText: contribute your share and collaborate when needed
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.21
+Trait: Agreeableness
+Question: you accomplish something impressive
+SelectedOption: A
+SelectedText: deflect credit or avoid talking about it
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.24
+Trait: Agreeableness
+Question: in a conversation about achievements
+SelectedOption: A
+SelectedText: share your successes naturally
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.2
+Trait: Neuroticism
+Question: your phone battery is at 20 percent and you are out for the day
+SelectedOption: A
+SelectedText: mentally calculate how long it will last and what to do if it dies
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.8
+Trait: Neuroticism
+Question: a colleague takes credit for an idea you shared in a previous conversation
+SelectedOption: A
+SelectedText: feel irritated but decide if it is worth addressing
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.23
+Trait: Neuroticism
+Question: you are trying to maintain a healthy routine but crave something indulgent
+SelectedOption: A
+SelectedText: allow occasional exceptions within limits
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.24
+Trait: Neuroticism
+Question: when stressed your first instinct is to
+SelectedOption: A
+SelectedText: engage in relaxing activities before dealing with it
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.30
+Trait: Neuroticism
+Question: when facing criticism during a stressful period
+SelectedOption: A
+SelectedText: process it objectively regardless of other pressures
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C002
+==================================
+
