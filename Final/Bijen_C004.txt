@@ -1,0 +1,208 @@
+CandidateID: C004
+Name: Bijen
+Age: 19
+Phone: 9849494975
+==================================
+QuestionID: 1.1
+Trait: Conscientiousness
+Question: you are assigned a task outside your comfort zone
+SelectedOption: D
+SelectedText: have some doubts but try anyway
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.4
+Trait: Conscientiousness
+Question: when something goes wrong in your work
+SelectedOption: B
+SelectedText: stay confident and troubleshoot
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.6
+Trait: Conscientiousness
+Question: your workspace typically looks
+SelectedOption: A
+SelectedText: generally tidy
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.11
+Trait: Conscientiousness
+Question: you are part of a team project with unclear individual roles
+SelectedOption: B
+SelectedText: contribute your share
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.21
+Trait: Conscientiousness
+Question: you have an important but unpleasant task to complete
+SelectedOption: A
+SelectedText: procrastinate until necessary
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.2
+Trait: Openness
+Question: a friend asks you to help brainstorm ideas for their project
+SelectedOption: B
+SelectedText: develop elaborate imaginative concepts
+Marks: 1
+TimeTakenSeconds: 1
+----------------------------------
+QuestionID: 2.12
+Trait: Openness
+Question: your emotional response to art film or literature
+SelectedOption: D
+SelectedText: can be intensely moving and stay with you
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.19
+Trait: Openness
+Question: when shopping for essentials you
+SelectedOption: B
+SelectedText: buy the same brands you trust
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.26
+Trait: Openness
+Question: you meet someone with a very different cultural or ideological background
+SelectedOption: C
+SelectedText: interact normally within common ground
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.29
+Trait: Openness
+Question: your social circle consists of
+SelectedOption: A
+SelectedText: a mix of different types of people
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.4
+Trait: Extraversion
+Question: you notice someone sitting alone at a social event
+SelectedOption: A
+SelectedText: continue with your activities
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.8
+Trait: Extraversion
+Question: when entering a room full of people
+SelectedOption: D
+SelectedText: find a quiet spot or familiar face
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.10
+Trait: Extraversion
+Question: after a week of work you prefer to
+SelectedOption: C
+SelectedText: engage in social activities
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.19
+Trait: Extraversion
+Question: your energy levels throughout the day are
+SelectedOption: TIMEOUT
+SelectedText: No answer
+Marks: 0
+TimeTakenSeconds: 60
+----------------------------------
+QuestionID: 3.23
+Trait: Extraversion
+Question: your idea of fun involves
+SelectedOption: B
+SelectedText: adrenaline and intense excitement
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.3
+Trait: Agreeableness
+Question: your general assumption about people's intentions is
+SelectedOption: D
+SelectedText: most people are generally good-natured
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.11
+Trait: Agreeableness
+Question: you need to schedule a meeting with five people
+SelectedOption: B
+SelectedText: pick a time that works for most
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.13
+Trait: Agreeableness
+Question: your decision will affect several people's plans
+SelectedOption: C
+SelectedText: prioritize others convenience over your preference
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.21
+Trait: Agreeableness
+Question: you accomplish something impressive
+SelectedOption: C
+SelectedText: share it proudly with others
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.30
+Trait: Agreeableness
+Question: when you see someone struggling
+SelectedOption: B
+SelectedText: feel for them and look for ways to help
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.5
+Trait: Neuroticism
+Question: you are responsible for an event happening in two weeks
+SelectedOption: B
+SelectedText: check in with vendors and participants more frequently than scheduled
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.7
+Trait: Neuroticism
+Question: technology stops working when you are in the middle of important work
+SelectedOption: D
+SelectedText: switch to another task calmly
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.8
+Trait: Neuroticism
+Question: a colleague takes credit for an idea you shared in a previous conversation
+SelectedOption: B
+SelectedText: mention it privately to the colleague
+Marks: 4
+TimeTakenSeconds: 33
+----------------------------------
+QuestionID: 5.22
+Trait: Neuroticism
+Question: there is an expensive item you want but do not necessarily need
+SelectedOption: C
+SelectedText: buy it if it brings you joy
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.23
+Trait: Neuroticism
+Question: you are trying to maintain a healthy routine but crave something indulgent
+SelectedOption: B
+SelectedText: frequently make exceptions for comfort
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C004
+==================================
+

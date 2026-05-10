@@ -1,0 +1,208 @@
+CandidateID: C004
+Name: Anjila Shrestha
+Age: 19
+Phone: 9879495910
+==================================
+QuestionID: 1.5
+Trait: Conscientiousness
+Question: you are asked to lead a project
+SelectedOption: C
+SelectedText: feel anxious about your capability
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.9
+Trait: Conscientiousness
+Question: when you finish using something
+SelectedOption: D
+SelectedText: immediately return it to its designated spot
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.10
+Trait: Conscientiousness
+Question: disorder in your environment makes you
+SelectedOption: A
+SelectedText: need to fix it immediately
+Marks: 1
+TimeTakenSeconds: 1
+----------------------------------
+QuestionID: 1.14
+Trait: Conscientiousness
+Question: your sense of obligation to commitments is
+SelectedOption: A
+SelectedText: strong and dependable
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.25
+Trait: Conscientiousness
+Question: following through on intentions
+SelectedOption: A
+SelectedText: consistently happens
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.15
+Trait: Openness
+Question: when recalling emotional memories
+SelectedOption: C
+SelectedText: you feel them vividly as if reliving the moment
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.22
+Trait: Openness
+Question: during free time you are likely to
+SelectedOption: D
+SelectedText: relax with light entertainment
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.24
+Trait: Openness
+Question: you prefer conversations that
+SelectedOption: D
+SelectedText: mix practical and interesting subjects
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.27
+Trait: Openness
+Question: a colleague has unconventional work habits that differ from yours
+SelectedOption: D
+SelectedText: appreciate the diversity in approaches
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.30
+Trait: Openness
+Question: when encountering unfamiliar customs or traditions
+SelectedOption: B
+SelectedText: you feel they are strange or impractical
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.3
+Trait: Extraversion
+Question: someone shares personal good news with you
+SelectedOption: D
+SelectedText: celebrate with genuine enthusiasm
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.10
+Trait: Extraversion
+Question: after a week of work you prefer to
+SelectedOption: A
+SelectedText: see one or two close friends
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.17
+Trait: Extraversion
+Question: when you have unscheduled time
+SelectedOption: C
+SelectedText: fill it with productive tasks
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.22
+Trait: Extraversion
+Question: when planning activities you gravitate toward
+SelectedOption: B
+SelectedText: some variety and new experiences
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.24
+Trait: Extraversion
+Question: you are choosing between a peaceful retreat and an action-packed trip
+SelectedOption: A
+SelectedText: find the action-packed trip appealing
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.6
+Trait: Agreeableness
+Question: someone asks your opinion on their work that has clear flaws
+SelectedOption: D
+SelectedText: focus on strengths and be very careful with criticism
+Marks: 1
+TimeTakenSeconds: 1
+----------------------------------
+QuestionID: 4.7
+Trait: Agreeableness
+Question: in negotiations your approach is to
+SelectedOption: B
+SelectedText: prioritize the relationship over complete honesty
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.8
+Trait: Agreeableness
+Question: a friend makes a decision you think is a mistake
+SelectedOption: A
+SelectedText: express your concerns clearly
+Marks: 3
+TimeTakenSeconds: 4
+----------------------------------
+QuestionID: 4.14
+Trait: Agreeableness
+Question: someone needs something that would inconvenience you
+SelectedOption: D
+SelectedText: help if it is not too disruptive
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.16
+Trait: Agreeableness
+Question: you disagree with a rule or policy
+SelectedOption: A
+SelectedText: follow it without question
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.5
+Trait: Neuroticism
+Question: you are responsible for an event happening in two weeks
+SelectedOption: D
+SelectedText: follow your timeline and handle issues as they arise
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.18
+Trait: Neuroticism
+Question: you are invited to a social gathering where you will know very few people
+SelectedOption: C
+SelectedText: attend and introduce yourself naturally
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.19
+Trait: Neuroticism
+Question: after sharing an opinion in a group no one immediately responds
+SelectedOption: D
+SelectedText: wait for the conversation to continue
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.23
+Trait: Neuroticism
+Question: you are trying to maintain a healthy routine but crave something indulgent
+SelectedOption: A
+SelectedText: allow occasional exceptions within limits
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.26
+Trait: Neuroticism
+Question: multiple urgent tasks arrive simultaneously
+SelectedOption: D
+SelectedText: experience difficulty focusing
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C004
+==================================
+

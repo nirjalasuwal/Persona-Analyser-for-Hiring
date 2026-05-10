@@ -12,9 +12,7 @@
 #include <algorithm>
 #include <random>
 #include <unordered_map>
-
-// Bar graph (graphics.h based) – must come before Windows headers
-#include "drawBarGraph.h"
+#include <graphics.h>
 
 // Windows-specific headers
 #ifdef _WIN32
@@ -370,6 +368,160 @@ bool timedGetline(string& result, int timeoutSeconds) {
 
 
 // ─────────────────────────────────────────────
+//  BAR GRAPH FUNCTIONALITY
+// ─────────────────────────────────────────────
+
+bool parseTraitScoresFromCandidateScores(const string& fileName,
+                                         const string& targetCandidateID,
+                                         string& candidateName,
+                                         map<string, int>& traitScores) {
+    ifstream file(fileName);
+    if (!file) return false;
+
+    string line;
+    bool foundCandidate = false;
+    string currentCandidateID;
+    bool foundAllTraits = false;
+
+    while (getline(file, line)) {
+        // Don't trim the whole line yet - we need to check indentation
+        string trimmedLine = trim(line);
+        
+        // Look for candidate ID (more flexible matching)
+        if (trimmedLine.find("CandidateID") != string::npos && trimmedLine.find(":") != string::npos) {
+            // If we already found a candidate and are now at a new one, stop
+            if (foundCandidate && foundAllTraits) {
+                break;
+            }
+            
+            size_t colonPos = trimmedLine.find(":");
+            currentCandidateID = trim(trimmedLine.substr(colonPos + 1));
+            
+            string searchID = targetCandidateID;
+            for (char& c : searchID) c = toupper((unsigned char)c);
+            string idToCheck = currentCandidateID;
+            for (char& c : idToCheck) c = toupper((unsigned char)c);
+            
+            if (idToCheck == searchID) {
+                foundCandidate = true;
+                traitScores.clear();  // Clear any previous data
+                foundAllTraits = false;
+            } else if (foundCandidate) {
+                // We were in a candidate section but now we're in a new one, so stop
+                break;
+            }
+        }
+        // Look for candidate name (more flexible matching)
+        else if (foundCandidate && trimmedLine.find("Name") != string::npos && trimmedLine.find(":") != string::npos) {
+            size_t colonPos = trimmedLine.find(":");
+            candidateName = trim(trimmedLine.substr(colonPos + 1));
+        }
+        // Look for trait scores - match lines starting with digit, not indented
+        else if (foundCandidate && !trimmedLine.empty() && isdigit(trimmedLine[0]) && line[0] != ' ' && line[0] != '\t') {
+            size_t colonPos = trimmedLine.find(":");
+            size_t slashPos = trimmedLine.find("/");
+            
+            if (colonPos != string::npos && slashPos != string::npos && colonPos < slashPos) {
+                // Extract trait name (between "." and ":")
+                size_t dotPos = trimmedLine.find(".");
+                if (dotPos != string::npos && dotPos < colonPos) {
+                    string traitPart = trim(trimmedLine.substr(dotPos + 1, colonPos - dotPos - 1));
+                    
+                    // Extract score value (between ":" and "/")
+                    string scoreStr = trim(trimmedLine.substr(colonPos + 1, slashPos - colonPos - 1));
+                    try {
+                        int score = stoi(scoreStr);
+                        traitScores[traitPart] = score;
+                        if (traitScores.size() == 5) {
+                            foundAllTraits = true;  // Found all 5 traits
+                        }
+                    } catch (...) { 
+                        // Ignore parse errors
+                    }
+                }
+            }
+        }
+    }
+
+    file.close();
+    return foundCandidate && !traitScores.empty();
+}
+
+void displayCandidateBarGraph(const string& candidateID, const string& candidateName) {
+    map<string, int> traitScores;
+    string displayName = candidateName;
+    
+    if (!parseTraitScoresFromCandidateScores("candidate_scores.txt", candidateID, displayName, traitScores)) {
+        cout << "\nError: Could not load graph data for candidate " << candidateID << ".\n";
+        cout << "Possible reasons: Candidate not found in candidate_scores.txt or incomplete scoring data.\n";
+        return;
+    }
+
+    // Verify we have at least some trait scores
+    if (traitScores.empty()) {
+        cout << "\nError: No trait scores found for candidate " << candidateID << ".\n";
+        return;
+    }
+
+    // Trait order for bar graph (matching bar.cpp)
+    vector<string> traitOrder = {
+        "Openness", "Conscientiousness", "Extraversion", "Agreeableness", "Neuroticism"
+    };
+
+    // Create window title with candidate info
+    string windowTitle = "Candidate " + candidateID + " - " + displayName + " | NEPAL ARMY - Character Assessment";
+
+    initwindow(800, 400, (char*)windowTitle.c_str(), 550, 50);
+
+    // Draw axes
+    line(50, 350, 700, 350);   // X-axis
+    line(50, 350, 50, 50);     // Y-axis
+
+    // Y-axis labels (0, 5, 10, 15, 20)
+    outtextxy(30, 350, "0");
+    outtextxy(30, 280, "5");
+    outtextxy(30, 210, "10");
+    outtextxy(30, 140, "15");
+    outtextxy(30, 70, "20");
+
+    outtextxy(20, 30, "Score");
+
+    // Calculate bar positions
+    int barWidth = 50;
+    int spacing = 130;  // spacing between bars
+    int startX = 110;
+
+    int idx = 0;
+    for (const string& trait : traitOrder) {
+        int score = (traitScores.find(trait) != traitScores.end()) ? traitScores[trait] : 0;
+        
+        // Calculate bar height (20 points max = 280 pixels from 70 to 350)
+        // Score of 20 = height of 280, Score of 0 = height of 0
+        int barHeight = (score * 280) / 20;
+        int barTop = 350 - barHeight;
+        
+        // Draw rectangle for bar
+        int xPos = startX + (idx * spacing);
+        rectangle(xPos, barTop, xPos + barWidth, 350);
+
+        // Draw trait label below
+        outtextxy(xPos - 20, 360, (char*)trait.c_str());
+        
+        idx++;
+    }
+
+    // Wait for user to close the window
+    cout << "\n(Graph window opened. Press any key in the graph window to close it.)\n";
+    getch();
+    closegraph();
+    
+    // Clear input buffer to avoid carryover issues
+    cin.clear();
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+}
+
+
+// ─────────────────────────────────────────────
 //  ADMIN PANEL
 // ─────────────────────────────────────────────
 
@@ -691,8 +843,8 @@ public:
         cout << "\n";
         generateReport(cout, candidateID, candidateName, candidateAge, candidatePhone, traitTotals);
 
-        // ── Open bar graph in a side-by-side graphics window ─────
-        drawCandidateBarGraph(candidateID, candidateName, traitTotals);
+        // Display bar graph for the candidate
+        displayCandidateBarGraph(candidateID, candidateName);
     }
 };
 

@@ -34,28 +34,6 @@ TRAIT SUMMARY
   Strongest Trait  : Extraversion (16/20)
   Weakest Trait    : Conscientiousness (9/20)
 
-
-  +======================================================+
-  ||        PERSONALITY TRAIT PROFILE - BAR CHART       ||
-  ||             Score Range: 5 (Low) to 20 (High)      ||
-  +======================================================+
-
-                       5    7    9   11   13   15   17   19  20
-                       |    |    |    |    |    |    |    |   |
-                       [====LOW=====][===MODERATE===][===HIGH===]
-
-  Neuroticism       |#############...|..........|............| 10/20 (50%)  [ MODERATE ]
-  Openness          |################|=======...|............| 14/20 (70%)  [ MODERATE ]
-  Extraversion      |################|==========|*...........| 16/20 (80%)  [ HIGH     ]
-  Agreeableness     |################|=========.|............| 15/20 (75%)  [ MODERATE ]
-  Conscientiousness |##########......|..........|............|  9/20 (45%)  [ LOW      ]
-
-                       [====LOW=====][===MODERATE===][===HIGH===]
-                       5          9  10          15  16         20
-
-  LEGEND:  ### LOW (5-9)   === MODERATE (10-15)   *** HIGH (16-20)
-  +======================================================+
-
 ================================================
 
 ================================================
@@ -90,27 +68,75 @@ TRAIT SUMMARY
   Strongest Trait  : Agreeableness (14/20)
   Weakest Trait    : Extraversion (12/20)
 
+================================================
 
-  +======================================================+
-  ||        PERSONALITY TRAIT PROFILE - BAR CHART       ||
-  ||             Score Range: 5 (Low) to 20 (High)      ||
-  +======================================================+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C004
+Name        : Anjila Shrestha
+Age         : 19
+Phone       : 9879495910
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 17/20  [HIGH]
+   -> Emotionally reactive, may struggle under high-pressure or combat situations.
 
-                       5    7    9   11   13   15   17   19  20
-                       |    |    |    |    |    |    |    |   |
-                       [====LOW=====][===MODERATE===][===HIGH===]
+2. Openness          : 13/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
 
-  Neuroticism       |################|====......|............| 13/20 (65%)  [ MODERATE ]
-  Openness          |################|====......|............| 13/20 (65%)  [ MODERATE ]
-  Extraversion      |################|=.........|............| 12/20 (60%)  [ MODERATE ]
-  Agreeableness     |################|=======...|............| 14/20 (70%)  [ MODERATE ]
-  Conscientiousness |################|====......|............| 13/20 (65%)  [ MODERATE ]
+3. Extraversion      : 11/20  [MODERATE]
+   -> Comfortable in both team and solo tasks, situationally assertive.
 
-                       [====LOW=====][===MODERATE===][===HIGH===]
-                       5          9  10          15  16         20
+4. Agreeableness     : 9/20  [LOW]
+   -> Independent-minded, assertive, may challenge authority.
 
-  LEGEND:  ### LOW (5-9)   === MODERATE (10-15)   *** HIGH (16-20)
-  +======================================================+
+5. Conscientiousness : 10/20  [MODERATE]
+   -> Reasonably organized and reliable under normal conditions.
+
+------------------------------------------------
+OVERALL SCORE            : 60/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Neuroticism (17/20)
+  Weakest Trait    : Agreeableness (9/20)
+  * Note: Low Neuroticism = High Emotional Stability
+
+================================================
+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C004
+Name        : Bijen
+Age         : 19
+Phone       : 9849494975
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 13/20  [MODERATE]
+   -> Occasionally affected by stress, generally manages emotions adequately.
+
+2. Openness          : 11/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
+
+3. Extraversion      : 11/20  [MODERATE]
+   -> Comfortable in both team and solo tasks, situationally assertive.
+
+4. Agreeableness     : 12/20  [MODERATE]
+   -> Cooperative yet capable of standing firm when needed.
+
+5. Conscientiousness : 13/20  [MODERATE]
+   -> Reasonably organized and reliable under normal conditions.
+
+------------------------------------------------
+OVERALL SCORE            : 60/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Neuroticism (13/20)
+  Weakest Trait    : Openness (11/20)
+  * Note: Low Neuroticism = High Emotional Stability
 
 ================================================
 
