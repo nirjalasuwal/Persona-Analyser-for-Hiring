@@ -1,0 +1,208 @@
+CandidateID: C005
+Name: Hawa
+Age: 19
+Phone: 513221
+==================================
+QuestionID: 1.1
+Trait: Conscientiousness
+Question: you are assigned a task outside your comfort zone
+SelectedOption: A
+SelectedText: feel you can figure it out
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.7
+Trait: Conscientiousness
+Question: you organize files and documents
+SelectedOption: D
+SelectedText: regularly maintain organization
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.10
+Trait: Conscientiousness
+Question: disorder in your environment makes you
+SelectedOption: D
+SelectedText: unbothered
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.13
+Trait: Conscientiousness
+Question: you notice a problem that is technically not your job
+SelectedOption: D
+SelectedText: mention it to the appropriate person
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.26
+Trait: Conscientiousness
+Question: before making an important decision you
+SelectedOption: A
+SelectedText: think it over briefly
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.16
+Trait: Openness
+Question: you are at a restaurant with a menu of unfamiliar dishes
+SelectedOption: A
+SelectedText: try something completely new
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.17
+Trait: Openness
+Question: a new method is proposed for a task you have mastered
+SelectedOption: D
+SelectedText: stick with your proven approach
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.18
+Trait: Openness
+Question: you are planning a vacation
+SelectedOption: A
+SelectedText: visit a new place but with planned activities
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.22
+Trait: Openness
+Question: during free time you are likely to
+SelectedOption: A
+SelectedText: engage in familiar hobbies
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.26
+Trait: Openness
+Question: you meet someone with a very different cultural or ideological background
+SelectedOption: A
+SelectedText: maintain polite distance
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.2
+Trait: Extraversion
+Question: during interactions your demeanor is generally
+SelectedOption: D
+SelectedText: friendly when engaged
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.9
+Trait: Extraversion
+Question: you are invited to a large social gathering
+SelectedOption: A
+SelectedText: attend briefly or decline
+Marks: 4
+TimeTakenSeconds: 1
+----------------------------------
+QuestionID: 3.15
+Trait: Extraversion
+Question: when your rights or interests are at stake
+SelectedOption: D
+SelectedText: stand up for yourself clearly
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.21
+Trait: Extraversion
+Question: you are offered a last-minute opportunity for an adventure
+SelectedOption: A
+SelectedText: accept if it sounds interesting
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.25
+Trait: Extraversion
+Question: routine and predictability make you feel
+SelectedOption: A
+SelectedText: bored and eager for stimulation
+Marks: 1
+TimeTakenSeconds: 5
+----------------------------------
+QuestionID: 4.9
+Trait: Agreeableness
+Question: your communication style is
+SelectedOption: A
+SelectedText: very careful to avoid any conflict
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.12
+Trait: Agreeableness
+Question: a colleague is struggling with their workload
+SelectedOption: A
+SelectedText: offer help if they ask
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.18
+Trait: Agreeableness
+Question: someone in authority makes a request you find unreasonable
+SelectedOption: D
+SelectedText: do it without resistance
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.24
+Trait: Agreeableness
+Question: in a conversation about achievements
+SelectedOption: A
+SelectedText: share your successes naturally
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.25
+Trait: Agreeableness
+Question: when you are clearly the expert in the room
+SelectedOption: A
+SelectedText: offer input without asserting superiority
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.2
+Trait: Neuroticism
+Question: your phone battery is at 20 percent and you are out for the day
+SelectedOption: A
+SelectedText: mentally calculate how long it will last and what to do if it dies
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.4
+Trait: Neuroticism
+Question: your manager schedules an unexpected meeting titled quick discussion
+SelectedOption: A
+SelectedText: prepare talking points for various possible topics
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.15
+Trait: Neuroticism
+Question: after a social interaction that felt awkward
+SelectedOption: D
+SelectedText: your confidence in social settings fluctuates
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.22
+Trait: Neuroticism
+Question: there is an expensive item you want but do not necessarily need
+SelectedOption: A
+SelectedText: wait and only buy if it fits your budget plan
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.30
+Trait: Neuroticism
+Question: when facing criticism during a stressful period
+SelectedOption: A
+SelectedText: process it objectively regardless of other pressures
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C005
+==================================
+
