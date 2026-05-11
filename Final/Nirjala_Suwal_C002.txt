@@ -1,0 +1,208 @@
+CandidateID: C002
+Name: Nirjala Suwal
+Age: 19
+Phone: 6565656
+==================================
+QuestionID: 1.5
+Trait: Conscientiousness
+Question: you are asked to lead a project
+SelectedOption: B
+SelectedText: accept with some reservations
+Marks: 3
+TimeTakenSeconds: 1
+----------------------------------
+QuestionID: 1.14
+Trait: Conscientiousness
+Question: your sense of obligation to commitments is
+SelectedOption: B
+SelectedText: generally reliable
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.16
+Trait: Conscientiousness
+Question: when you complete a task adequately
+SelectedOption: B
+SelectedText: you are satisfied and move on
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.19
+Trait: Conscientiousness
+Question: when you perform at an average level
+SelectedOption: B
+SelectedText: you are dissatisfied and push harder
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.27
+Trait: Conscientiousness
+Question: when planning projects you
+SelectedOption: B
+SelectedText: start and figure it out as you go
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.2
+Trait: Openness
+Question: a friend asks you to help brainstorm ideas for their project
+SelectedOption: B
+SelectedText: develop elaborate imaginative concepts
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.4
+Trait: Openness
+Question: you are designing something new such as a space event or product
+SelectedOption: B
+SelectedText: create something highly original and conceptual
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.7
+Trait: Openness
+Question: you encounter a highly stylized film or art piece that is unconventional
+SelectedOption: B
+SelectedText: you prefer more straightforward content
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.20
+Trait: Openness
+Question: someone suggests a weekend activity you have never done
+SelectedOption: B
+SelectedText: feel interested in trying new things
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.30
+Trait: Openness
+Question: when encountering unfamiliar customs or traditions
+SelectedOption: B
+SelectedText: you feel they are strange or impractical
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.1
+Trait: Extraversion
+Question: a new person joins your team or social group
+SelectedOption: B
+SelectedText: make them feel welcome with friendly conversation
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.4
+Trait: Extraversion
+Question: you notice someone sitting alone at a social event
+SelectedOption: B
+SelectedText: consider saying hello
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.6
+Trait: Extraversion
+Question: at a networking event you
+SelectedOption: B
+SelectedText: engage with a few people
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.11
+Trait: Extraversion
+Question: during a group decision where you have a clear preference
+SelectedOption: B
+SelectedText: share your view if asked
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.23
+Trait: Extraversion
+Question: your idea of fun involves
+SelectedOption: B
+SelectedText: adrenaline and intense excitement
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.1
+Trait: Agreeableness
+Question: a stranger offers to help you with something unexpectedly
+SelectedOption: B
+SelectedText: politely decline and handle it yourself
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.4
+Trait: Agreeableness
+Question: a colleague asks to borrow something valuable
+SelectedOption: B
+SelectedText: lend it without much concern
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.18
+Trait: Agreeableness
+Question: someone in authority makes a request you find unreasonable
+SelectedOption: B
+SelectedText: refuse or push back strongly
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.19
+Trait: Agreeableness
+Question: your approach to rules and authority is
+SelectedOption: B
+SelectedText: follow reasonable rules but challenge unfair ones
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.24
+Trait: Agreeableness
+Question: in a conversation about achievements
+SelectedOption: B
+SelectedText: participate but do not dominate
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.6
+Trait: Neuroticism
+Question: someone cuts in front of you in a queue you have been waiting in for 10 minutes
+SelectedOption: B
+SelectedText: let it go without much thought
+Marks: 4
+TimeTakenSeconds: 9
+----------------------------------
+QuestionID: 5.12
+Trait: Neuroticism
+Question: after receiving criticism on one aspect of your work
+SelectedOption: B
+SelectedText: your mood affects your approach to other tasks
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.22
+Trait: Neuroticism
+Question: there is an expensive item you want but do not necessarily need
+SelectedOption: B
+SelectedText: treat yourself without much deliberation
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.26
+Trait: Neuroticism
+Question: multiple urgent tasks arrive simultaneously
+SelectedOption: B
+SelectedText: feel overwhelmed and unsure where to start
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.30
+Trait: Neuroticism
+Question: when facing criticism during a stressful period
+SelectedOption: B
+SelectedText: absorb it with slight emotional reaction
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C002
+==================================
+

@@ -738,8 +738,9 @@ private:
         unordered_map<string, vector<Question>> byTrait;
         for (const Question& q : allQuestions) byTrait[q.trait].push_back(q);
 
-        random_device rd;
-        mt19937 generator(rd());
+        // Use high-resolution clock for better seeding on Windows
+        unsigned long seed = chrono::high_resolution_clock::now().time_since_epoch().count();
+        mt19937 generator(seed);
         vector<Question> selected;
         selected.reserve(25);
 

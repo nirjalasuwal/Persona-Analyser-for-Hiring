@@ -1,54 +1,70 @@
 CandidateID: C004
 Name: Anjila Shrestha
 Age: 19
-Phone: 9879495910
+Phone: 4454545454
 ==================================
-QuestionID: 1.5
+QuestionID: 1.20
 Trait: Conscientiousness
-Question: you are asked to lead a project
-SelectedOption: C
-SelectedText: feel anxious about your capability
-Marks: 4
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 1.9
-Trait: Conscientiousness
-Question: when you finish using something
+Question: your internal standards are
 SelectedOption: D
-SelectedText: immediately return it to its designated spot
-Marks: 1
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 1.10
-Trait: Conscientiousness
-Question: disorder in your environment makes you
-SelectedOption: A
-SelectedText: need to fix it immediately
-Marks: 1
-TimeTakenSeconds: 1
-----------------------------------
-QuestionID: 1.14
-Trait: Conscientiousness
-Question: your sense of obligation to commitments is
-SelectedOption: A
-SelectedText: strong and dependable
+SelectedText: high
 Marks: 2
 TimeTakenSeconds: 0
 ----------------------------------
-QuestionID: 1.25
+QuestionID: 1.21
 Trait: Conscientiousness
-Question: following through on intentions
-SelectedOption: A
-SelectedText: consistently happens
+Question: you have an important but unpleasant task to complete
+SelectedOption: D
+SelectedText: complete it despite not wanting to
 Marks: 2
 TimeTakenSeconds: 0
 ----------------------------------
-QuestionID: 2.15
+QuestionID: 1.23
+Trait: Conscientiousness
+Question: when working on long-term goals
+SelectedOption: D
+SelectedText: stay fairly consistent
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.24
+Trait: Conscientiousness
+Question: your ability to resist temptations is
+SelectedOption: D
+SelectedText: strong and you usually resist
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.30
+Trait: Conscientiousness
+Question: before speaking or acting you
+SelectedOption: D
+SelectedText: always carefully consider all potential outcomes
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.7
 Trait: Openness
-Question: when recalling emotional memories
-SelectedOption: C
-SelectedText: you feel them vividly as if reliving the moment
+Question: you encounter a highly stylized film or art piece that is unconventional
+SelectedOption: D
+SelectedText: you are deeply drawn to unique artistic expression
 Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.8
+Trait: Openness
+Question: when selecting music or media you
+SelectedOption: D
+SelectedText: seek out complex artistic or experimental works
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.9
+Trait: Openness
+Question: the design of everyday objects such as furniture tools and packaging
+SelectedOption: D
+SelectedText: influences your preferences noticeably
+Marks: 2
 TimeTakenSeconds: 0
 ----------------------------------
 QuestionID: 2.22
@@ -67,132 +83,116 @@ SelectedText: mix practical and interesting subjects
 Marks: 3
 TimeTakenSeconds: 0
 ----------------------------------
-QuestionID: 2.27
-Trait: Openness
-Question: a colleague has unconventional work habits that differ from yours
-SelectedOption: D
-SelectedText: appreciate the diversity in approaches
-Marks: 1
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 2.30
-Trait: Openness
-Question: when encountering unfamiliar customs or traditions
-SelectedOption: B
-SelectedText: you feel they are strange or impractical
-Marks: 4
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 3.3
+QuestionID: 3.5
 Trait: Extraversion
-Question: someone shares personal good news with you
+Question: your style of communication with others is
 SelectedOption: D
-SelectedText: celebrate with genuine enthusiasm
-Marks: 2
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 3.10
-Trait: Extraversion
-Question: after a week of work you prefer to
-SelectedOption: A
-SelectedText: see one or two close friends
+SelectedText: pleasant and personable
 Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.7
+Trait: Extraversion
+Question: your ideal weekend involves
+SelectedOption: D
+SelectedText: multiple social engagements and gatherings
+Marks: 1
 TimeTakenSeconds: 0
 ----------------------------------
 QuestionID: 3.17
 Trait: Extraversion
 Question: when you have unscheduled time
-SelectedOption: C
-SelectedText: fill it with productive tasks
-Marks: 2
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 3.22
-Trait: Extraversion
-Question: when planning activities you gravitate toward
-SelectedOption: B
-SelectedText: some variety and new experiences
-Marks: 2
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 3.24
-Trait: Extraversion
-Question: you are choosing between a peaceful retreat and an action-packed trip
-SelectedOption: A
-SelectedText: find the action-packed trip appealing
-Marks: 2
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 4.6
-Trait: Agreeableness
-Question: someone asks your opinion on their work that has clear flaws
 SelectedOption: D
-SelectedText: focus on strengths and be very careful with criticism
-Marks: 1
-TimeTakenSeconds: 1
+SelectedText: enjoy the downtime
+Marks: 4
+TimeTakenSeconds: 0
 ----------------------------------
-QuestionID: 4.7
-Trait: Agreeableness
-Question: in negotiations your approach is to
-SelectedOption: B
-SelectedText: prioritize the relationship over complete honesty
+QuestionID: 3.19
+Trait: Extraversion
+Question: your energy levels throughout the day are
+SelectedOption: D
+SelectedText: consistently very high
 Marks: 1
 TimeTakenSeconds: 0
 ----------------------------------
-QuestionID: 4.8
-Trait: Agreeableness
-Question: a friend makes a decision you think is a mistake
-SelectedOption: A
-SelectedText: express your concerns clearly
-Marks: 3
+QuestionID: 3.26
+Trait: Extraversion
+Question: throughout your day you typically feel
+SelectedOption: D
+SelectedText: generally cheerful
+Marks: 2
 TimeTakenSeconds: 4
 ----------------------------------
-QuestionID: 4.14
+QuestionID: 4.1
 Trait: Agreeableness
-Question: someone needs something that would inconvenience you
+Question: a stranger offers to help you with something unexpectedly
 SelectedOption: D
-SelectedText: help if it is not too disruptive
+SelectedText: accept cautiously while staying alert
 Marks: 3
 TimeTakenSeconds: 0
 ----------------------------------
-QuestionID: 4.16
+QuestionID: 4.2
 Trait: Agreeableness
-Question: you disagree with a rule or policy
-SelectedOption: A
-SelectedText: follow it without question
+Question: when someone explains why they are late or made a mistake
+SelectedOption: D
+SelectedText: question the validity of their excuse
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.4
+Trait: Agreeableness
+Question: a colleague asks to borrow something valuable
+SelectedOption: D
+SelectedText: agree reluctantly with conditions
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.5
+Trait: Agreeableness
+Question: when meeting new people in a professional setting
+SelectedOption: D
+SelectedText: share carefully and observe their behavior
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.10
+Trait: Agreeableness
+Question: when someone asks does this look good and it does not
+SelectedOption: D
+SelectedText: tell them it does not work
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.7
+Trait: Neuroticism
+Question: technology stops working when you are in the middle of important work
+SelectedOption: D
+SelectedText: switch to another task calmly
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.16
+Trait: Neuroticism
+Question: you are about to present in front of a group you do not know well
+SelectedOption: D
+SelectedText: wonder briefly how you will be perceived
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.22
+Trait: Neuroticism
+Question: there is an expensive item you want but do not necessarily need
+SelectedOption: D
+SelectedText: consider it carefully before purchasing
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.25
+Trait: Neuroticism
+Question: you are on a tight deadline but feel mentally exhausted
+SelectedOption: D
+SelectedText: prioritize rest and deal with consequences later
 Marks: 1
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 5.5
-Trait: Neuroticism
-Question: you are responsible for an event happening in two weeks
-SelectedOption: D
-SelectedText: follow your timeline and handle issues as they arise
-Marks: 4
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 5.18
-Trait: Neuroticism
-Question: you are invited to a social gathering where you will know very few people
-SelectedOption: C
-SelectedText: attend and introduce yourself naturally
-Marks: 4
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 5.19
-Trait: Neuroticism
-Question: after sharing an opinion in a group no one immediately responds
-SelectedOption: D
-SelectedText: wait for the conversation to continue
-Marks: 4
-TimeTakenSeconds: 0
-----------------------------------
-QuestionID: 5.23
-Trait: Neuroticism
-Question: you are trying to maintain a healthy routine but crave something indulgent
-SelectedOption: A
-SelectedText: allow occasional exceptions within limits
-Marks: 3
 TimeTakenSeconds: 0
 ----------------------------------
 QuestionID: 5.26

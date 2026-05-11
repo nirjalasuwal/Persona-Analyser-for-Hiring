@@ -1,4 +1,4 @@
-C001|Nirjala|Nirjala_C001.txt
-C002|Sanish|Sanish_C002.txt
+C001|Sanish Thapa Shrestha|Sanish_Thapa_Shrestha_C001.txt
+C002|Nirjala Suwal|Nirjala_Suwal_C002.txt
+C003|Bijen Lawoju|Bijen_Lawoju_C003.txt
 C004|Anjila Shrestha|Anjila_Shrestha_C004.txt
-C004|Bijen|Bijen_C004.txt
