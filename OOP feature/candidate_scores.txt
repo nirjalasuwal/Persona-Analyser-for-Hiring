@@ -1,0 +1,142 @@
+================================================
+        NEPAL ARMY - CANDIDATE SCORE SUMMARY
+================================================
+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C001
+Name        : Sanish Thapa Shrestha
+Age         : 20
+Phone       : 9849792711
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 8/20  [LOW]
+   -> Emotionally stable, calm under pressure, resilient in stressful situations.
+
+2. Openness          : 12/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
+
+3. Extraversion      : 15/20  [MODERATE]
+   -> Comfortable in both team and solo tasks, situationally assertive.
+
+4. Agreeableness     : 10/20  [MODERATE]
+   -> Cooperative yet capable of standing firm when needed.
+
+5. Conscientiousness : 17/20  [HIGH]
+   -> Highly disciplined, detail-oriented, strong sense of duty and responsibility.
+
+------------------------------------------------
+OVERALL SCORE            : 62/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Conscientiousness (17/20)
+  Weakest Trait    : Neuroticism (8/20)
+  * Note: Low Neuroticism = High Emotional Stability
+
+================================================
+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C002
+Name        : Nirjala Suwal
+Age         : 19
+Phone       : 6565656
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 11/20  [MODERATE]
+   -> Occasionally affected by stress, generally manages emotions adequately.
+
+2. Openness          : 12/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
+
+3. Extraversion      : 12/20  [MODERATE]
+   -> Comfortable in both team and solo tasks, situationally assertive.
+
+4. Agreeableness     : 15/20  [MODERATE]
+   -> Cooperative yet capable of standing firm when needed.
+
+5. Conscientiousness : 15/20  [MODERATE]
+   -> Reasonably organized and reliable under normal conditions.
+
+------------------------------------------------
+OVERALL SCORE            : 65/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Agreeableness (15/20)
+  Weakest Trait    : Neuroticism (11/20)
+  * Note: Low Neuroticism = High Emotional Stability
+
+================================================
+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C003
+Name        : Bijen Lawoju
+Age         : 19
+Phone       : 9897979754
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 15/20  [MODERATE]
+   -> Occasionally affected by stress, generally manages emotions adequately.
+
+2. Openness          : 11/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
+
+3. Extraversion      : 14/20  [MODERATE]
+   -> Comfortable in both team and solo tasks, situationally assertive.
+
+4. Agreeableness     : 17/20  [HIGH]
+   -> Highly cooperative, team-oriented, empathetic and supportive.
+
+5. Conscientiousness : 12/20  [MODERATE]
+   -> Reasonably organized and reliable under normal conditions.
+
+------------------------------------------------
+OVERALL SCORE            : 69/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Agreeableness (17/20)
+  Weakest Trait    : Openness (11/20)
+
+================================================
+
+================================================
+       NEPAL ARMY - CHARACTER ASSESSMENT REPORT
+================================================
+CandidateID : C004
+Name        : Anjila Shrestha
+Age         : 19
+Phone       : 4454545454
+------------------------------------------------
+TRAIT SCORES & PROFILE
+------------------------------------------------
+1. Neuroticism       : 13/20  [MODERATE]
+   -> Occasionally affected by stress, generally manages emotions adequately.
+
+2. Openness          : 11/20  [MODERATE]
+   -> Adaptable when needed, balances tradition with flexibility.
+
+3. Extraversion      : 11/20  [MODERATE]
+   -> Comfortable in both team and solo tasks, situationally assertive.
+
+4. Agreeableness     : 17/20  [HIGH]
+   -> Highly cooperative, team-oriented, empathetic and supportive.
+
+5. Conscientiousness : 9/20  [LOW]
+   -> Flexible but may lack structure, needs external direction.
+
+------------------------------------------------
+OVERALL SCORE            : 61/100
+------------------------------------------------
+TRAIT SUMMARY
+  Strongest Trait  : Agreeableness (17/20)
+  Weakest Trait    : Conscientiousness (9/20)
+
+================================================
+

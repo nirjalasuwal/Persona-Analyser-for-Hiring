@@ -1,0 +1,208 @@
+CandidateID: C003
+Name: Bijen Lawoju
+Age: 19
+Phone: 9897979754
+==================================
+QuestionID: 1.3
+Trait: Conscientiousness
+Question: your self-assessment of your skills is
+SelectedOption: C
+SelectedText: confident in key areas
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.10
+Trait: Conscientiousness
+Question: disorder in your environment makes you
+SelectedOption: C
+SelectedText: slightly uncomfortable
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.15
+Trait: Conscientiousness
+Question: when you make a promise
+SelectedOption: C
+SelectedText: it is a guarantee you will not break
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.20
+Trait: Conscientiousness
+Question: your internal standards are
+SelectedOption: C
+SelectedText: moderate
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.28
+Trait: Conscientiousness
+Question: your approach to problems is
+SelectedOption: C
+SelectedText: think briefly then act
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.14
+Trait: Openness
+Question: your emotional range in daily life
+SelectedOption: C
+SelectedText: includes pronounced emotional experiences
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.15
+Trait: Openness
+Question: when recalling emotional memories
+SelectedOption: C
+SelectedText: you feel them vividly as if reliving the moment
+Marks: 1
+TimeTakenSeconds: 4
+----------------------------------
+QuestionID: 2.18
+Trait: Openness
+Question: you are planning a vacation
+SelectedOption: C
+SelectedText: choose a familiar type of destination
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.28
+Trait: Openness
+Question: you are in a discussion where someone expresses views opposite to yours
+SelectedOption: C
+SelectedText: engage deeply and find value in the different perspective
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.29
+Trait: Openness
+Question: your social circle consists of
+SelectedOption: C
+SelectedText: a fairly homogeneous group with slight variations
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.11
+Trait: Extraversion
+Question: during a group decision where you have a clear preference
+SelectedOption: C
+SelectedText: advocate strongly for your preference
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.23
+Trait: Extraversion
+Question: your idea of fun involves
+SelectedOption: C
+SelectedText: moderate enjoyment with friends
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.24
+Trait: Extraversion
+Question: you are choosing between a peaceful retreat and an action-packed trip
+SelectedOption: C
+SelectedText: strongly prefer the peaceful option
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.25
+Trait: Extraversion
+Question: routine and predictability make you feel
+SelectedOption: C
+SelectedText: comfortable and secure
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.27
+Trait: Extraversion
+Question: your baseline emotional state is
+SelectedOption: C
+SelectedText: noticeably upbeat
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.21
+Trait: Agreeableness
+Question: you accomplish something impressive
+SelectedOption: C
+SelectedText: share it proudly with others
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.23
+Trait: Agreeableness
+Question: your view of your abilities compared to others
+SelectedOption: C
+SelectedText: you are decent but everyone has strengths
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.26
+Trait: Agreeableness
+Question: a colleague is visibly upset about a personal issue
+SelectedOption: C
+SelectedText: give them space unless they approach you
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.28
+Trait: Agreeableness
+Question: your response to others suffering is
+SelectedOption: C
+SelectedText: intellectual understanding
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.29
+Trait: Agreeableness
+Question: someone shares a hardship they are experiencing
+SelectedOption: C
+SelectedText: express sympathy and offer support
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.1
+Trait: Neuroticism
+Question: you are planning a trip that is three months away and thinking about preparation
+SelectedOption: C
+SelectedText: start planning but frequently check if bookings are confirmed
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.7
+Trait: Neuroticism
+Question: technology stops working when you are in the middle of important work
+SelectedOption: C
+SelectedText: troubleshoot systematically
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.12
+Trait: Neuroticism
+Question: after receiving criticism on one aspect of your work
+SelectedOption: C
+SelectedText: you feel briefly discouraged but recover quickly
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.19
+Trait: Neuroticism
+Question: after sharing an opinion in a group no one immediately responds
+SelectedOption: C
+SelectedText: briefly wonder if it was appropriate
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.28
+Trait: Neuroticism
+Question: during a high-stakes situation your performance
+SelectedOption: C
+SelectedText: improves or stays consistent
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C003
+==================================
+

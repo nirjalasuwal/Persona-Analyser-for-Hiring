@@ -1,0 +1,208 @@
+CandidateID: C001
+Name: Sanish Thapa Shrestha
+Age: 20
+Phone: 9849792711
+==================================
+QuestionID: 1.3
+Trait: Conscientiousness
+Question: your self-assessment of your skills is
+SelectedOption: A
+SelectedText: aware of limitations
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.4
+Trait: Conscientiousness
+Question: when something goes wrong in your work
+SelectedOption: A
+SelectedText: worry about specific skills
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.16
+Trait: Conscientiousness
+Question: when you complete a task adequately
+SelectedOption: A
+SelectedText: you feel good about finishing
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.21
+Trait: Conscientiousness
+Question: you have an important but unpleasant task to complete
+SelectedOption: A
+SelectedText: procrastinate until necessary
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.29
+Trait: Conscientiousness
+Question: you prefer to
+SelectedOption: A
+SelectedText: be spontaneous and flexible
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.7
+Trait: Openness
+Question: you encounter a highly stylized film or art piece that is unconventional
+SelectedOption: A
+SelectedText: you can appreciate it but do not seek it out
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.9
+Trait: Openness
+Question: the design of everyday objects such as furniture tools and packaging
+SelectedOption: A
+SelectedText: matters somewhat if the price is similar
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.19
+Trait: Openness
+Question: when shopping for essentials you
+SelectedOption: A
+SelectedText: enjoy discovering new options frequently
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.21
+Trait: Openness
+Question: you encounter information about an unfamiliar topic
+SelectedOption: A
+SelectedText: deep-dive and seek related information
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.27
+Trait: Openness
+Question: a colleague has unconventional work habits that differ from yours
+SelectedOption: A
+SelectedText: feel it is inefficient or unprofessional
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.4
+Trait: Extraversion
+Question: you notice someone sitting alone at a social event
+SelectedOption: A
+SelectedText: continue with your activities
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.7
+Trait: Extraversion
+Question: your ideal weekend involves
+SelectedOption: A
+SelectedText: small group activities
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.10
+Trait: Extraversion
+Question: after a week of work you prefer to
+SelectedOption: A
+SelectedText: see one or two close friends
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.20
+Trait: Extraversion
+Question: you feel best when you are
+SelectedOption: A
+SelectedText: actively doing things
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.28
+Trait: Extraversion
+Question: when something good happens
+SelectedOption: A
+SelectedText: you are pleased
+Marks: 3
+TimeTakenSeconds: 5
+----------------------------------
+QuestionID: 4.1
+Trait: Agreeableness
+Question: a stranger offers to help you with something unexpectedly
+SelectedOption: A
+SelectedText: trust their good intentions without hesitation
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.11
+Trait: Agreeableness
+Question: you need to schedule a meeting with five people
+SelectedOption: A
+SelectedText: ensure it is convenient for everyone adjusting your schedule
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.14
+Trait: Agreeableness
+Question: someone needs something that would inconvenience you
+SelectedOption: A
+SelectedText: accommodate them despite the inconvenience
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.20
+Trait: Agreeableness
+Question: during disagreements you tend to
+SelectedOption: A
+SelectedText: hold your ground while hearing others
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.23
+Trait: Agreeableness
+Question: your view of your abilities compared to others
+SelectedOption: A
+SelectedText: you are competent and confident
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.4
+Trait: Neuroticism
+Question: your manager schedules an unexpected meeting titled quick discussion
+SelectedOption: A
+SelectedText: prepare talking points for various possible topics
+Marks: 3
+TimeTakenSeconds: 1
+----------------------------------
+QuestionID: 5.10
+Trait: Neuroticism
+Question: traffic makes you late despite leaving on time
+SelectedOption: A
+SelectedText: honk or show visible frustration
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.12
+Trait: Neuroticism
+Question: after receiving criticism on one aspect of your work
+SelectedOption: A
+SelectedText: you swing between defensiveness and self-doubt
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.19
+Trait: Neuroticism
+Question: after sharing an opinion in a group no one immediately responds
+SelectedOption: A
+SelectedText: regret speaking up
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.24
+Trait: Neuroticism
+Question: when stressed your first instinct is to
+SelectedOption: A
+SelectedText: engage in relaxing activities before dealing with it
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C001
+==================================
+

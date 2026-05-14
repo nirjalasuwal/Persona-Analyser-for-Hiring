@@ -1,0 +1,208 @@
+CandidateID: C004
+Name: Anjila Shrestha
+Age: 19
+Phone: 4454545454
+==================================
+QuestionID: 1.20
+Trait: Conscientiousness
+Question: your internal standards are
+SelectedOption: D
+SelectedText: high
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.21
+Trait: Conscientiousness
+Question: you have an important but unpleasant task to complete
+SelectedOption: D
+SelectedText: complete it despite not wanting to
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.23
+Trait: Conscientiousness
+Question: when working on long-term goals
+SelectedOption: D
+SelectedText: stay fairly consistent
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.24
+Trait: Conscientiousness
+Question: your ability to resist temptations is
+SelectedOption: D
+SelectedText: strong and you usually resist
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.30
+Trait: Conscientiousness
+Question: before speaking or acting you
+SelectedOption: D
+SelectedText: always carefully consider all potential outcomes
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.7
+Trait: Openness
+Question: you encounter a highly stylized film or art piece that is unconventional
+SelectedOption: D
+SelectedText: you are deeply drawn to unique artistic expression
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.8
+Trait: Openness
+Question: when selecting music or media you
+SelectedOption: D
+SelectedText: seek out complex artistic or experimental works
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.9
+Trait: Openness
+Question: the design of everyday objects such as furniture tools and packaging
+SelectedOption: D
+SelectedText: influences your preferences noticeably
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.22
+Trait: Openness
+Question: during free time you are likely to
+SelectedOption: D
+SelectedText: relax with light entertainment
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.24
+Trait: Openness
+Question: you prefer conversations that
+SelectedOption: D
+SelectedText: mix practical and interesting subjects
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.5
+Trait: Extraversion
+Question: your style of communication with others is
+SelectedOption: D
+SelectedText: pleasant and personable
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.7
+Trait: Extraversion
+Question: your ideal weekend involves
+SelectedOption: D
+SelectedText: multiple social engagements and gatherings
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.17
+Trait: Extraversion
+Question: when you have unscheduled time
+SelectedOption: D
+SelectedText: enjoy the downtime
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.19
+Trait: Extraversion
+Question: your energy levels throughout the day are
+SelectedOption: D
+SelectedText: consistently very high
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.26
+Trait: Extraversion
+Question: throughout your day you typically feel
+SelectedOption: D
+SelectedText: generally cheerful
+Marks: 2
+TimeTakenSeconds: 4
+----------------------------------
+QuestionID: 4.1
+Trait: Agreeableness
+Question: a stranger offers to help you with something unexpectedly
+SelectedOption: D
+SelectedText: accept cautiously while staying alert
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.2
+Trait: Agreeableness
+Question: when someone explains why they are late or made a mistake
+SelectedOption: D
+SelectedText: question the validity of their excuse
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.4
+Trait: Agreeableness
+Question: a colleague asks to borrow something valuable
+SelectedOption: D
+SelectedText: agree reluctantly with conditions
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.5
+Trait: Agreeableness
+Question: when meeting new people in a professional setting
+SelectedOption: D
+SelectedText: share carefully and observe their behavior
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.10
+Trait: Agreeableness
+Question: when someone asks does this look good and it does not
+SelectedOption: D
+SelectedText: tell them it does not work
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.7
+Trait: Neuroticism
+Question: technology stops working when you are in the middle of important work
+SelectedOption: D
+SelectedText: switch to another task calmly
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.16
+Trait: Neuroticism
+Question: you are about to present in front of a group you do not know well
+SelectedOption: D
+SelectedText: wonder briefly how you will be perceived
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.22
+Trait: Neuroticism
+Question: there is an expensive item you want but do not necessarily need
+SelectedOption: D
+SelectedText: consider it carefully before purchasing
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.25
+Trait: Neuroticism
+Question: you are on a tight deadline but feel mentally exhausted
+SelectedOption: D
+SelectedText: prioritize rest and deal with consequences later
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.26
+Trait: Neuroticism
+Question: multiple urgent tasks arrive simultaneously
+SelectedOption: D
+SelectedText: experience difficulty focusing
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+EndOfCandidate: C004
+==================================
+
