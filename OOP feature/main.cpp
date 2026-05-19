@@ -51,21 +51,7 @@ string getPassword() {
         } else { password += ch; cout << '*'; }
     }
     cout << endl;
-#else
-    termios oldt, newt;
-    tcgetattr(STDIN_FILENO, &oldt);
-    newt = oldt;
-    newt.c_lflag &= ~(ECHO | ICANON);
-    tcsetattr(STDIN_FILENO, TCSANOW, &newt);
-    while (true) {
-        ch = getchar();
-        if (ch == '\n') break;
-        if (ch == 127) {
-            if (!password.empty()) { password.pop_back(); cout << "\b \b"; }
-        } else { password += ch; cout << '*'; }
-    }
-    tcsetattr(STDIN_FILENO, TCSANOW, &oldt);
-    cout << endl;
+
 #endif
     return password;
 }
@@ -329,18 +315,18 @@ private:
         {"Agreeableness", 4}, {"Neuroticism", 5}
     };
 
-    pair<int, int> parseQuestionID(const string& id) {
+    pair<int, int> parseQuestionID(const string& id) {  
         size_t dotPos = id.find('.');
         if (dotPos == string::npos) return {0, 0};
         return {stoi(id.substr(0, dotPos)), stoi(id.substr(dotPos + 1))};
-    }
+    }       // Parses "2.5" into {2, 5} for sorting questions by trait and number
 
     bool compareIDs(const string& id1, const string& id2) {
         pair<int,int> p1 = parseQuestionID(id1);
         pair<int,int> p2 = parseQuestionID(id2);
         if (p1.first != p2.first) return p1.first < p2.first;
         return p1.second < p2.second;
-    }
+    }       // Compares two question IDs for sorting: first by trait number, then by question number
 
     int partition(vector<Question>& arr, int low, int high) {
         string pivot = arr[high].questionID;
@@ -772,7 +758,9 @@ User* panels[2] = { &admin, &candidate };
             }
 
             case 2:
-                candidate.startAssessment();
+                //candidate.startAssessment();
+                
+                candidate.showMenu();
                 break;
 
             case 3:

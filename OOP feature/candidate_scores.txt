@@ -109,34 +109,35 @@ TRAIT SUMMARY
 ================================================
        NEPAL ARMY - CHARACTER ASSESSMENT REPORT
 ================================================
-CandidateID : C004
-Name        : Anjila Shrestha
-Age         : 19
-Phone       : 4454545454
+CandidateID : C007
+Name        : Bishwash
+Age         : 22
+Phone       : 9854125014
 ------------------------------------------------
 TRAIT SCORES & PROFILE
 ------------------------------------------------
-1. Neuroticism       : 13/20  [MODERATE]
-   -> Occasionally affected by stress, generally manages emotions adequately.
+1. Neuroticism       : 7/20  [LOW]
+   -> Emotionally stable, calm under pressure, resilient in stressful situations.
 
-2. Openness          : 11/20  [MODERATE]
-   -> Adaptable when needed, balances tradition with flexibility.
+2. Openness          : 17/20  [HIGH]
+   -> Highly adaptable, creative thinker, thrives in changing environments.
 
-3. Extraversion      : 11/20  [MODERATE]
+3. Extraversion      : 13/20  [MODERATE]
    -> Comfortable in both team and solo tasks, situationally assertive.
 
-4. Agreeableness     : 17/20  [HIGH]
-   -> Highly cooperative, team-oriented, empathetic and supportive.
+4. Agreeableness     : 10/20  [MODERATE]
+   -> Cooperative yet capable of standing firm when needed.
 
-5. Conscientiousness : 9/20  [LOW]
-   -> Flexible but may lack structure, needs external direction.
+5. Conscientiousness : 12/20  [MODERATE]
+   -> Reasonably organized and reliable under normal conditions.
 
 ------------------------------------------------
-OVERALL SCORE            : 61/100
+OVERALL SCORE            : 59/100
 ------------------------------------------------
 TRAIT SUMMARY
-  Strongest Trait  : Agreeableness (17/20)
-  Weakest Trait    : Conscientiousness (9/20)
+  Strongest Trait  : Openness (17/20)
+  Weakest Trait    : Neuroticism (7/20)
+  * Note: Low Neuroticism = High Emotional Stability
 
 ================================================
 

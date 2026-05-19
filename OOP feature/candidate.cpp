@@ -19,11 +19,13 @@
 #include "candidate.h"
 
 using namespace std;
-int CandidateAssessment::sessionCount = 0;
+//int CandidateAssessment::sessionCount = 0;
 
 // This is the body of the pure virtual function
 // we overrode in candidate.h
-void CandidateAssessment::showMenu() {
+void CandidateAssessment::showMenu() 
+{
+    int choice;
     cout << "\n";
     cout << "╔══════════════════════════════════════════════╗\n";
     cout << "║           CANDIDATE PANEL                    ║\n";
@@ -32,6 +34,19 @@ void CandidateAssessment::showMenu() {
     cout << "║  [2] Back to Main Menu                       ║\n";
     cout << "╚══════════════════════════════════════════════╝\n";
     cout << "Enter Choice: ";
+    cin>>choice;
+    if(choice==1)
+    {
+        startAssessment();
+    }
+    else if(choice==2)
+    {
+        cout<<"\nReturning to Main Menu...\n";
+    }
+    else
+    {
+        cout<<"\nInvalid choice. Returning to Main Menu...\n";
+    }
 }
 
     string CandidateAssessment::generateCandidateID() {
@@ -164,7 +179,7 @@ void CandidateAssessment::showMenu() {
 
     }
 
-    void CandidateAssessment::saveCandidateHeader(ofstream& out) {
+    void CandidateAssessment::saveCandidateHeader(ofstream& out) {      //yo out bhaneko file ko object ho
         out << "CandidateID: " << candidateID   << '\n';
         out << "Name: "        << userName  << '\n';
         out << "Age: "         << candidateAge   << '\n';
@@ -193,6 +208,7 @@ void CandidateAssessment::showMenu() {
 
 
     void CandidateAssessment::startAssessment() {
+
         vector<Question> allQuestions = loadQuestionsFromFile("questions.txt");
         if (allQuestions.empty()) {
             cout << "\nNo questions available. Ask admin to add questions first.\n";
@@ -204,6 +220,7 @@ void CandidateAssessment::showMenu() {
             cout << "\nNo valid random question set could be created.\n";
             return;
         }
+        //CandidateAssessment::showMenu();
 
         cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
@@ -275,7 +292,7 @@ void CandidateAssessment::showMenu() {
         if (!out) { cout << "Unable to open " << fileName << " for writing.\n"; return; }
 
         registerCandidate(fileName);
-        saveCandidateHeader(out);
+        saveCandidateHeader(out);   //yo out bhaneko file ko object ho
 
         cout << "\nAssessment starts now. You get 60 seconds per question.\n";
         cout << "Enter options (type A, B, C or D)\n" << endl;

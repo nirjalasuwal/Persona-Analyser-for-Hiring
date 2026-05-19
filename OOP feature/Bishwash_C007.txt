@@ -1,0 +1,208 @@
+CandidateID: C007
+Name: Bishwash
+Age: 22
+Phone: 9854125014
+==================================
+QuestionID: 1.3
+Trait: Openness
+Question: when solving a problem you prefer to
+SelectedOption: A
+SelectedText: use established methods that work
+Marks: 4
+TimeTakenSeconds: 7
+----------------------------------
+QuestionID: 1.10
+Trait: Openness
+Question: you visit a museum or gallery and your experience is
+SelectedOption: D
+SelectedText: interesting but you prefer other activities
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.20
+Trait: Openness
+Question: someone suggests a weekend activity you have never done
+SelectedOption: A
+SelectedText: agree if it seems reasonably enjoyable
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.25
+Trait: Openness
+Question: when you do not understand how something works
+SelectedOption: B
+SelectedText: accept it and move on
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 1.26
+Trait: Openness
+Question: you meet someone with a very different cultural or ideological background
+SelectedOption: D
+SelectedText: show interest in their perspective
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.10
+Trait: Conscientiousness
+Question: disorder in your environment makes you
+SelectedOption: A
+SelectedText: need to fix it immediately
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.13
+Trait: Conscientiousness
+Question: you notice a problem that is technically not your job
+SelectedOption: A
+SelectedText: leave it for whoever is responsible
+Marks: 4
+TimeTakenSeconds: 5
+----------------------------------
+QuestionID: 2.20
+Trait: Conscientiousness
+Question: your internal standards are
+SelectedOption: D
+SelectedText: high
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.26
+Trait: Conscientiousness
+Question: before making an important decision you
+SelectedOption: C
+SelectedText: carefully weigh options
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 2.27
+Trait: Conscientiousness
+Question: when planning projects you
+SelectedOption: C
+SelectedText: make a basic outline
+Marks: 3
+TimeTakenSeconds: 4
+----------------------------------
+QuestionID: 3.2
+Trait: Extraversion
+Question: during interactions your demeanor is generally
+SelectedOption: B
+SelectedText: warm and approachable
+Marks: 2
+TimeTakenSeconds: 2
+----------------------------------
+QuestionID: 3.6
+Trait: Extraversion
+Question: at a networking event you
+SelectedOption: A
+SelectedText: actively meet several new people
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.16
+Trait: Extraversion
+Question: your typical day involves
+SelectedOption: A
+SelectedText: staying busy with various tasks
+Marks: 2
+TimeTakenSeconds: 1
+----------------------------------
+QuestionID: 3.21
+Trait: Extraversion
+Question: you are offered a last-minute opportunity for an adventure
+SelectedOption: D
+SelectedText: consider it but likely stick to your routine
+Marks: 3
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 3.22
+Trait: Extraversion
+Question: when planning activities you gravitate toward
+SelectedOption: A
+SelectedText: calm predictable experiences
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.6
+Trait: Agreeableness
+Question: someone asks your opinion on their work that has clear flaws
+SelectedOption: D
+SelectedText: focus on strengths and be very careful with criticism
+Marks: 1
+TimeTakenSeconds: 3
+----------------------------------
+QuestionID: 4.14
+Trait: Agreeableness
+Question: someone needs something that would inconvenience you
+SelectedOption: A
+SelectedText: accommodate them despite the inconvenience
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.21
+Trait: Agreeableness
+Question: you accomplish something impressive
+SelectedOption: A
+SelectedText: deflect credit or avoid talking about it
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 4.26
+Trait: Agreeableness
+Question: a colleague is visibly upset about a personal issue
+SelectedOption: B
+SelectedText: offer support and listen if they want to talk
+Marks: 2
+TimeTakenSeconds: 4
+----------------------------------
+QuestionID: 4.29
+Trait: Agreeableness
+Question: someone shares a hardship they are experiencing
+SelectedOption: D
+SelectedText: listen and provide logical advice
+Marks: 4
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.2
+Trait: Neuroticism
+Question: your phone battery is at 20 percent and you are out for the day
+SelectedOption: A
+SelectedText: mentally calculate how long it will last and what to do if it dies
+Marks: 2
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.8
+Trait: Neuroticism
+Question: a colleague takes credit for an idea you shared in a previous conversation
+SelectedOption: D
+SelectedText: immediately correct the record in front of everyone
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.16
+Trait: Neuroticism
+Question: you are about to present in front of a group you do not know well
+SelectedOption: C
+SelectedText: think extensively about making a good impression
+Marks: 2
+TimeTakenSeconds: 4
+----------------------------------
+QuestionID: 5.28
+Trait: Neuroticism
+Question: during a high-stakes situation your performance
+SelectedOption: B
+SelectedText: drops noticeably as stress increases
+Marks: 1
+TimeTakenSeconds: 0
+----------------------------------
+QuestionID: 5.30
+Trait: Neuroticism
+Question: when facing criticism during a stressful period
+SelectedOption: D
+SelectedText: feel significantly more affected than you would normally
+Marks: 1
+TimeTakenSeconds: 5
+----------------------------------
+EndOfCandidate: C007
+==================================
+

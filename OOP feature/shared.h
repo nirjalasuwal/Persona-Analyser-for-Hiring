@@ -12,23 +12,15 @@
 
 using namespace std;
 
-struct Question {
-    std::string questionID;
-    std::string trait;
-    std::string questionText;
-    std::string options[4];
-    int         marks[4];
+class Question {
+    public:
+    string questionID;
+    string trait;
+    string questionText;
+    string options[4];
+    int marks[4];
 };
-// ── ADDITION 1: Operator Overloading ─────────
-// Add this RIGHT AFTER the Question struct's
-// closing brace } semicolon above.
-//
-// Overload << operator so you can write:
-//     cout << someQuestion;
-// instead of manually printing each field.
-//
-// 'inline' is required in header files to avoid
-// "defined multiple times" linker errors.
+
 
 inline std::ostream& operator<<(std::ostream& out,
                                  const Question& q) {
@@ -43,9 +35,7 @@ inline std::ostream& operator<<(std::ostream& out,
     return out;   // return allows: cout << q1 << q2
 }
 
-// Overload == so you can write:
-//     if (q1 == q2)
-// instead of: if (q1.questionID == q2.questionID)
+
 inline bool operator==(const Question& a,
                         const Question& b) {
     return a.questionID == b.questionID;
@@ -106,60 +96,20 @@ inline std::vector<Question> loadQuestionsFromFile(const std::string& fileName) 
     if (inQuestion && optionsRead == 4) loaded.push_back(current);
     return loaded;
 }
-// ─────────────────────────────────────────────
-// ADDITION : Abstract Base Class
-// Add this just BEFORE the #endif at the bottom
-// of shared.h
-//
-// WHY HERE: shared.h is already included by
-// every file in the project, so every file
-// automatically sees User with zero extra work.
-// ─────────────────────────────────────────────
+
 
 class User {
 protected:
-    // 'protected' means:
-    //   - accessible inside this class
-    //   - accessible inside any derived class
-    //   - NOT accessible from outside
-    // So PersonaAnalyser and CandidateAssessment
-    // can both read/write userName and userRole
-    // directly, without needing getters.
+   
     string userName;
-    string userRole;
+    //string userRole;
 
 public:
   
 
-    // ── Pure Virtual Function ────────────────
-    // "= 0" makes this PURE VIRTUAL.
-    // Effect 1: User cannot be instantiated.
-    //           User u;  // ERROR — won't compile
-    // Effect 2: Every derived class MUST provide
-    //           its own showMenu() or it also
-    //           becomes un-instantiatable.
-    virtual void showMenu() = 0;
+    virtual void showMenu() = 0;        //yo main.cpp ra candidate.cpp ma use bhako xa
 
-    // ── Regular Virtual Function ─────────────
-    // HAS a body, so User is not forced abstract
-    // by this one alone.
-    // Derived classes CAN override it, but don't
-    // have to — they get this default version.
-    virtual void displayWelcome() const {
-        cout << "\nWelcome, " << userName
-             << " [" << userRole << "]\n";
-    }
-
-    // ── Getters ───────────────────────────────
-    // 'const' at the end means this function
-    // promises not to modify the object.
-    string getUserName() const { return userName; }
-    string getUserRole() const { return userRole; }
-
-    // ── Setter ────────────────────────────────
-    void setUserName(const string& name) {
-        userName = name;
-    }
+   
 };
 
-#endif   // this was already here — do not add another
+#endif   

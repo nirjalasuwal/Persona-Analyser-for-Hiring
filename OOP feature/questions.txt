@@ -1,482 +1,482 @@
 QuestionID:1.1
-Trait: Conscientiousness
-you are assigned a task outside your comfort zone
-OptionID: 1.1A | feel you can figure it out | Marks: 2
-OptionID: 1.1B | feel uncertain about your ability to do it well | Marks: 4
-OptionID: 1.1C | feel confident you will master it | Marks: 1
-OptionID: 1.1D | have some doubts but try anyway | Marks: 3
-----------------------------------
-QuestionID:1.2
-Trait: Conscientiousness
-when facing challenges you believe
-OptionID: 1.2A | you might not have what it takes | Marks: 4
-OptionID: 1.2B | you are highly effective and resourceful | Marks: 1
-OptionID: 1.2C | you are capable of handling most things | Marks: 2
-OptionID: 1.2D | you can manage with effort | Marks: 3
-----------------------------------
-QuestionID:1.3
-Trait: Conscientiousness
-your self-assessment of your skills is
-OptionID: 1.3A | aware of limitations | Marks: 3
-OptionID: 1.3B | often doubtful | Marks: 4
-OptionID: 1.3C | confident in key areas | Marks: 2
-OptionID: 1.3D | strong across domains | Marks: 1
-----------------------------------
-QuestionID:1.4
-Trait: Conscientiousness
-when something goes wrong in your work
-OptionID: 1.4A | worry about specific skills | Marks: 3
-OptionID: 1.4B | stay confident and troubleshoot | Marks: 1
-OptionID: 1.4C | question your overall abilities | Marks: 4
-OptionID: 1.4D | see it as a learning moment | Marks: 2
-----------------------------------
-QuestionID:1.5
-Trait: Conscientiousness
-you are asked to lead a project
-OptionID: 1.5A | feel ready and capable | Marks: 2
-OptionID: 1.5B | accept with some reservations | Marks: 3
-OptionID: 1.5C | feel anxious about your capability | Marks: 4
-OptionID: 1.5D | feel fully prepared and confident | Marks: 1
-----------------------------------
-QuestionID:1.6
-Trait: Conscientiousness
-your workspace typically looks
-OptionID: 1.6A | generally tidy | Marks: 2
-OptionID: 1.6B | meticulously organized | Marks: 1
-OptionID: 1.6C | cluttered with items everywhere | Marks: 4
-OptionID: 1.6D | somewhat messy but functional | Marks: 3
-----------------------------------
-QuestionID:1.7
-Trait: Conscientiousness
-you organize files and documents
-OptionID: 1.7A | with a detailed systematic structure | Marks: 1
-OptionID: 1.7B | rarely and search when needed | Marks: 4
-OptionID: 1.7C | occasionally when things get messy | Marks: 3
-OptionID: 1.7D | regularly maintain organization | Marks: 2
-----------------------------------
-QuestionID:1.8
-Trait: Conscientiousness
-your approach to physical and digital spaces
-OptionID: 1.8A | need everything in its proper place | Marks: 1
-OptionID: 1.8B | like things organized | Marks: 2
-OptionID: 1.8C | chaos does not bother you | Marks: 4
-OptionID: 1.8D | prefer some order but tolerate mess | Marks: 3
-----------------------------------
-QuestionID:1.9
-Trait: Conscientiousness
-when you finish using something
-OptionID: 1.9A | leave it where it is | Marks: 4
-OptionID: 1.9B | usually return it to its place | Marks: 2
-OptionID: 1.9C | put it away sometimes | Marks: 3
-OptionID: 1.9D | immediately return it to its designated spot | Marks: 1
-----------------------------------
-QuestionID:1.10
-Trait: Conscientiousness
-disorder in your environment makes you
-OptionID: 1.10A | need to fix it immediately | Marks: 1
-OptionID: 1.10B | want to clean it soon | Marks: 2
-OptionID: 1.10C | slightly uncomfortable | Marks: 3
-OptionID: 1.10D | unbothered | Marks: 4
-----------------------------------
-QuestionID:1.11
-Trait: Conscientiousness
-you are part of a team project with unclear individual roles
-OptionID: 1.11A | do what is explicitly assigned to you | Marks: 4
-OptionID: 1.11B | contribute your share | Marks: 3
-OptionID: 1.11C | take initiative on undefined tasks | Marks: 2
-OptionID: 1.11D | ensure nothing falls through the cracks | Marks: 1
-----------------------------------
-QuestionID:1.12
-Trait: Conscientiousness
-a deadline is approaching for something you are responsible for
-OptionID: 1.12A | finish early to ensure quality | Marks: 2
-OptionID: 1.12B | usually complete it on time | Marks: 3
-OptionID: 1.12C | complete it well ahead with contingency time | Marks: 1
-OptionID: 1.12D | work on it as the deadline nears | Marks: 4
-----------------------------------
-QuestionID:1.13
-Trait: Conscientiousness
-you notice a problem that is technically not your job
-OptionID: 1.13A | leave it for whoever is responsible | Marks: 4
-OptionID: 1.13B | take ownership and solve it | Marks: 1
-OptionID: 1.13C | address it if it is simple | Marks: 2
-OptionID: 1.13D | mention it to the appropriate person | Marks: 3
-----------------------------------
-QuestionID:1.14
-Trait: Conscientiousness
-your sense of obligation to commitments is
-OptionID: 1.14A | strong and dependable | Marks: 2
-OptionID: 1.14B | generally reliable | Marks: 3
-OptionID: 1.14C | unwavering and absolute | Marks: 1
-OptionID: 1.14D | flexible based on circumstances | Marks: 4
-----------------------------------
-QuestionID:1.15
-Trait: Conscientiousness
-when you make a promise
-OptionID: 1.15A | you mean it in the moment | Marks: 4
-OptionID: 1.15B | you try to follow through | Marks: 3
-OptionID: 1.15C | it is a guarantee you will not break | Marks: 1
-OptionID: 1.15D | you make sure to deliver | Marks: 2
-----------------------------------
-QuestionID:1.16
-Trait: Conscientiousness
-when you complete a task adequately
-OptionID: 1.16A | you feel good about finishing | Marks: 3
-OptionID: 1.16B | you are satisfied and move on | Marks: 4
-OptionID: 1.16C | you want to do it well not just adequately | Marks: 2
-OptionID: 1.16D | you push yourself to exceed standards | Marks: 1
-----------------------------------
-QuestionID:1.17
-Trait: Conscientiousness
-your goals for yourself are
-OptionID: 1.17A | achievable with effort | Marks: 3
-OptionID: 1.17B | modest and realistic | Marks: 4
-OptionID: 1.17C | challenging but attainable | Marks: 2
-OptionID: 1.17D | highly ambitious | Marks: 1
-----------------------------------
-QuestionID:1.18
-Trait: Conscientiousness
-success and achievement in your work
-OptionID: 1.18A | are central to your identity and motivation | Marks: 1
-OptionID: 1.18B | are important to you | Marks: 3
-OptionID: 1.18C | matter but are not your primary focus | Marks: 4
-OptionID: 1.18D | drive much of your effort | Marks: 2
-----------------------------------
-QuestionID:1.19
-Trait: Conscientiousness
-when you perform at an average level
-OptionID: 1.19A | you are somewhat disappointed | Marks: 3
-OptionID: 1.19B | you are dissatisfied and push harder | Marks: 1
-OptionID: 1.19C | you are motivated to improve | Marks: 2
-OptionID: 1.19D | you are fine with it | Marks: 4
-----------------------------------
-QuestionID:1.20
-Trait: Conscientiousness
-your internal standards are
-OptionID: 1.20A | exceptionally demanding | Marks: 1
-OptionID: 1.20B | comfortable and reasonable | Marks: 4
-OptionID: 1.20C | moderate | Marks: 3
-OptionID: 1.20D | high | Marks: 2
-----------------------------------
-QuestionID:1.21
-Trait: Conscientiousness
-you have an important but unpleasant task to complete
-OptionID: 1.21A | procrastinate until necessary | Marks: 4
-OptionID: 1.21B | do it eventually with some delay | Marks: 3
-OptionID: 1.21C | do it immediately regardless of preference | Marks: 1
-OptionID: 1.21D | complete it despite not wanting to | Marks: 2
-----------------------------------
-QuestionID:1.22
-Trait: Conscientiousness
-distractions around you
-OptionID: 1.22A | do not impact your concentration | Marks: 1
-OptionID: 1.22B | slow you down sometimes | Marks: 3
-OptionID: 1.22C | affect you minimally | Marks: 2
-OptionID: 1.22D | easily derail your focus | Marks: 4
-----------------------------------
-QuestionID:1.23
-Trait: Conscientiousness
-when working on long-term goals
-OptionID: 1.23A | struggle to maintain consistent effort | Marks: 4
-OptionID: 1.23B | work on them irregularly | Marks: 3
-OptionID: 1.23C | maintain unwavering focus | Marks: 1
-OptionID: 1.23D | stay fairly consistent | Marks: 2
-----------------------------------
-QuestionID:1.24
-Trait: Conscientiousness
-your ability to resist temptations is
-OptionID: 1.24A | weak and you often give in | Marks: 4
-OptionID: 1.24B | very strong and you rarely give in | Marks: 1
-OptionID: 1.24C | moderate and you resist sometimes | Marks: 3
-OptionID: 1.24D | strong and you usually resist | Marks: 2
-----------------------------------
-QuestionID:1.25
-Trait: Conscientiousness
-following through on intentions
-OptionID: 1.25A | consistently happens | Marks: 2
-OptionID: 1.25B | always happens without exception | Marks: 1
-OptionID: 1.25C | happens sometimes | Marks: 4
-OptionID: 1.25D | usually happens | Marks: 3
-----------------------------------
-QuestionID:1.26
-Trait: Conscientiousness
-before making an important decision you
-OptionID: 1.26A | think it over briefly | Marks: 3
-OptionID: 1.26B | go with your gut quickly | Marks: 4
-OptionID: 1.26C | carefully weigh options | Marks: 2
-OptionID: 1.26D | analyze thoroughly from all angles | Marks: 1
-----------------------------------
-QuestionID:1.27
-Trait: Conscientiousness
-when planning projects you
-OptionID: 1.27A | develop comprehensive plans with contingencies | Marks: 1
-OptionID: 1.27B | start and figure it out as you go | Marks: 4
-OptionID: 1.27C | make a basic outline | Marks: 3
-OptionID: 1.27D | create a detailed plan | Marks: 2
-----------------------------------
-QuestionID:1.28
-Trait: Conscientiousness
-your approach to problems is
-OptionID: 1.28A | consider all possibilities systematically | Marks: 1
-OptionID: 1.28B | act quickly and adjust | Marks: 4
-OptionID: 1.28C | think briefly then act | Marks: 3
-OptionID: 1.28D | think through carefully before acting | Marks: 2
-----------------------------------
-QuestionID:1.29
-Trait: Conscientiousness
-you prefer to
-OptionID: 1.29A | be spontaneous and flexible | Marks: 4
-OptionID: 1.29B | have some structure but stay adaptable | Marks: 3
-OptionID: 1.29C | plan ahead | Marks: 2
-OptionID: 1.29D | have everything mapped out in detail | Marks: 1
-----------------------------------
-QuestionID:1.30
-Trait: Conscientiousness
-before speaking or acting you
-OptionID: 1.30A | rarely think about consequences | Marks: 4
-OptionID: 1.30B | usually think through implications | Marks: 2
-OptionID: 1.30C | consider them briefly | Marks: 3
-OptionID: 1.30D | always carefully consider all potential outcomes | Marks: 1
-----------------------------------
-QuestionID:2.1
 Trait: Openness
 when you have downtime you tend to
-OptionID: 2.1A | let your mind wander to various scenarios | Marks: 2
-OptionID: 2.1B | engage with concrete activities or tasks | Marks: 4
-OptionID: 2.1C | create detailed mental stories or possibilities | Marks: 1
-OptionID: 2.1D | think about practical matters | Marks: 3
+OptionID: 1.1A | let your mind wander to various scenarios | Marks: 2
+OptionID: 1.1B | engage with concrete activities or tasks | Marks: 4
+OptionID: 1.1C | create detailed mental stories or possibilities | Marks: 1
+OptionID: 1.1D | think about practical matters | Marks: 3
 ----------------------------------
-QuestionID:2.2
+QuestionID:1.2
 Trait: Openness
 a friend asks you to help brainstorm ideas for their project
-OptionID: 2.2A | suggest practical proven approaches | Marks: 4
-OptionID: 2.2B | develop elaborate imaginative concepts | Marks: 1
-OptionID: 2.2C | generate several unconventional possibilities | Marks: 2
-OptionID: 2.2D | offer a mix of standard and creative options | Marks: 3
+OptionID: 1.2A | suggest practical proven approaches | Marks: 4
+OptionID: 1.2B | develop elaborate imaginative concepts | Marks: 1
+OptionID: 1.2C | generate several unconventional possibilities | Marks: 2
+OptionID: 1.2D | offer a mix of standard and creative options | Marks: 3
 ----------------------------------
-QuestionID:2.3
+QuestionID:1.3
 Trait: Openness
 when solving a problem you prefer to
-OptionID: 2.3A | use established methods that work | Marks: 4
-OptionID: 2.3B | try known approaches with minor adjustments | Marks: 3
-OptionID: 2.3C | explore alternative angles | Marks: 2
-OptionID: 2.3D | envision completely new frameworks | Marks: 1
+OptionID: 1.3A | use established methods that work | Marks: 4
+OptionID: 1.3B | try known approaches with minor adjustments | Marks: 3
+OptionID: 1.3C | explore alternative angles | Marks: 2
+OptionID: 1.3D | envision completely new frameworks | Marks: 1
 ----------------------------------
-QuestionID:2.4
+QuestionID:1.4
 Trait: Openness
 you are designing something new such as a space event or product
-OptionID: 2.4A | use standard structures with personal touches | Marks: 3
-OptionID: 2.4B | create something highly original and conceptual | Marks: 1
-OptionID: 2.4C | follow conventional templates | Marks: 4
-OptionID: 2.4D | experiment with unusual combinations | Marks: 2
+OptionID: 1.4A | use standard structures with personal touches | Marks: 3
+OptionID: 1.4B | create something highly original and conceptual | Marks: 1
+OptionID: 1.4C | follow conventional templates | Marks: 4
+OptionID: 1.4D | experiment with unusual combinations | Marks: 2
 ----------------------------------
-QuestionID:2.5
+QuestionID:1.5
 Trait: Openness
 during a conversation you are most engaged when discussing
-OptionID: 2.5A | practical applications of ideas | Marks: 3
-OptionID: 2.5B | hypothetical scenarios and possibilities | Marks: 2
-OptionID: 2.5C | concrete facts and real experiences | Marks: 4
-OptionID: 2.5D | abstract concepts and theoretical frameworks | Marks: 1
+OptionID: 1.5A | practical applications of ideas | Marks: 3
+OptionID: 1.5B | hypothetical scenarios and possibilities | Marks: 2
+OptionID: 1.5C | concrete facts and real experiences | Marks: 4
+OptionID: 1.5D | abstract concepts and theoretical frameworks | Marks: 1
 ----------------------------------
-QuestionID:2.6
+QuestionID:1.6
 Trait: Openness
 when choosing items for your living space you prioritize
-OptionID: 2.6A | functionality with consideration for appearance | Marks: 3
-OptionID: 2.6B | visual appeal as much as utility | Marks: 2
-OptionID: 2.6C | artistic expression and aesthetic harmony | Marks: 1
-OptionID: 2.6D | functionality and practicality | Marks: 4
+OptionID: 1.6A | functionality with consideration for appearance | Marks: 3
+OptionID: 1.6B | visual appeal as much as utility | Marks: 2
+OptionID: 1.6C | artistic expression and aesthetic harmony | Marks: 1
+OptionID: 1.6D | functionality and practicality | Marks: 4
 ----------------------------------
-QuestionID:2.7
+QuestionID:1.7
 Trait: Openness
 you encounter a highly stylized film or art piece that is unconventional
-OptionID: 2.7A | you can appreciate it but do not seek it out | Marks: 3
-OptionID: 2.7B | you prefer more straightforward content | Marks: 4
-OptionID: 2.7C | you find it interesting and engaging | Marks: 2
-OptionID: 2.7D | you are deeply drawn to unique artistic expression | Marks: 1
+OptionID: 1.7A | you can appreciate it but do not seek it out | Marks: 3
+OptionID: 1.7B | you prefer more straightforward content | Marks: 4
+OptionID: 1.7C | you find it interesting and engaging | Marks: 2
+OptionID: 1.7D | you are deeply drawn to unique artistic expression | Marks: 1
 ----------------------------------
-QuestionID:2.8
+QuestionID:1.8
 Trait: Openness
 when selecting music or media you
-OptionID: 2.8A | choose based on mood or energy level | Marks: 4
-OptionID: 2.8B | explore different styles and appreciate craftsmanship | Marks: 2
-OptionID: 2.8C | select familiar genres you enjoy | Marks: 3
-OptionID: 2.8D | seek out complex artistic or experimental works | Marks: 1
+OptionID: 1.8A | choose based on mood or energy level | Marks: 4
+OptionID: 1.8B | explore different styles and appreciate craftsmanship | Marks: 2
+OptionID: 1.8C | select familiar genres you enjoy | Marks: 3
+OptionID: 1.8D | seek out complex artistic or experimental works | Marks: 1
 ----------------------------------
-QuestionID:2.9
+QuestionID:1.9
 Trait: Openness
 the design of everyday objects such as furniture tools and packaging
-OptionID: 2.9A | matters somewhat if the price is similar | Marks: 3
-OptionID: 2.9B | does not factor into your choices much | Marks: 4
-OptionID: 2.9C | is an important consideration in most purchases | Marks: 1
-OptionID: 2.9D | influences your preferences noticeably | Marks: 2
+OptionID: 1.9A | matters somewhat if the price is similar | Marks: 3
+OptionID: 1.9B | does not factor into your choices much | Marks: 4
+OptionID: 1.9C | is an important consideration in most purchases | Marks: 1
+OptionID: 1.9D | influences your preferences noticeably | Marks: 2
 ----------------------------------
-QuestionID:2.10
+QuestionID:1.10
 Trait: Openness
 you visit a museum or gallery and your experience is
-OptionID: 2.10A | deeply fulfilling and inspiring | Marks: 1
-OptionID: 2.10B | enjoyable for a short visit | Marks: 3
-OptionID: 2.10C | engaging and thought-provoking | Marks: 2
-OptionID: 2.10D | interesting but you prefer other activities | Marks: 4
+OptionID: 1.10A | deeply fulfilling and inspiring | Marks: 1
+OptionID: 1.10B | enjoyable for a short visit | Marks: 3
+OptionID: 1.10C | engaging and thought-provoking | Marks: 2
+OptionID: 1.10D | interesting but you prefer other activities | Marks: 4
 ----------------------------------
-QuestionID:2.11
+QuestionID:1.11
 Trait: Openness
 when you experience a meaningful moment such as a sunset music or connection
-OptionID: 2.11A | you are moved profoundly and may reflect on it later | Marks: 1
-OptionID: 2.11B | you feel pleasant but the feeling passes quickly | Marks: 3
-OptionID: 2.11C | you notice it and move on | Marks: 4
-OptionID: 2.11D | you experience it quite deeply | Marks: 2
+OptionID: 1.11A | you are moved profoundly and may reflect on it later | Marks: 1
+OptionID: 1.11B | you feel pleasant but the feeling passes quickly | Marks: 3
+OptionID: 1.11C | you notice it and move on | Marks: 4
+OptionID: 1.11D | you experience it quite deeply | Marks: 2
 ----------------------------------
-QuestionID:2.12
+QuestionID:1.12
 Trait: Openness
 your emotional response to art film or literature
-OptionID: 2.12A | often creates emotional resonance | Marks: 2
-OptionID: 2.12B | occasionally evokes feelings | Marks: 3
-OptionID: 2.12C | is generally mild or focused on entertainment | Marks: 4
-OptionID: 2.12D | can be intensely moving and stay with you | Marks: 1
+OptionID: 1.12A | often creates emotional resonance | Marks: 2
+OptionID: 1.12B | occasionally evokes feelings | Marks: 3
+OptionID: 1.12C | is generally mild or focused on entertainment | Marks: 4
+OptionID: 1.12D | can be intensely moving and stay with you | Marks: 1
 ----------------------------------
-QuestionID:2.13
+QuestionID:1.13
 Trait: Openness
 when something touches you emotionally such as a story gesture or beauty
-OptionID: 2.13A | it affects you deeply and may bring strong reactions | Marks: 1
-OptionID: 2.13B | you feel it in the moment | Marks: 3
-OptionID: 2.13C | the feeling lingers for some time | Marks: 2
-OptionID: 2.13D | you acknowledge it briefly | Marks: 4
+OptionID: 1.13A | it affects you deeply and may bring strong reactions | Marks: 1
+OptionID: 1.13B | you feel it in the moment | Marks: 3
+OptionID: 1.13C | the feeling lingers for some time | Marks: 2
+OptionID: 1.13D | you acknowledge it briefly | Marks: 4
 ----------------------------------
-QuestionID:2.14
+QuestionID:1.14
 Trait: Openness
 your emotional range in daily life
-OptionID: 2.14A | spans very deep feelings regularly | Marks: 1
-OptionID: 2.14B | is fairly even and practical | Marks: 4
-OptionID: 2.14C | includes pronounced emotional experiences | Marks: 2
-OptionID: 2.14D | has moderate highs and lows | Marks: 3
+OptionID: 1.14A | spans very deep feelings regularly | Marks: 1
+OptionID: 1.14B | is fairly even and practical | Marks: 4
+OptionID: 1.14C | includes pronounced emotional experiences | Marks: 2
+OptionID: 1.14D | has moderate highs and lows | Marks: 3
 ----------------------------------
-QuestionID:2.15
+QuestionID:1.15
 Trait: Openness
 when recalling emotional memories
-OptionID: 2.15A | you feel a faint echo of the original emotion | Marks: 3
-OptionID: 2.15B | you remember them factually without re-experiencing | Marks: 4
-OptionID: 2.15C | you feel them vividly as if reliving the moment | Marks: 1
-OptionID: 2.15D | you re-experience the feelings moderately | Marks: 2
+OptionID: 1.15A | you feel a faint echo of the original emotion | Marks: 3
+OptionID: 1.15B | you remember them factually without re-experiencing | Marks: 4
+OptionID: 1.15C | you feel them vividly as if reliving the moment | Marks: 1
+OptionID: 1.15D | you re-experience the feelings moderately | Marks: 2
 ----------------------------------
-QuestionID:2.16
+QuestionID:1.16
 Trait: Openness
 you are at a restaurant with a menu of unfamiliar dishes
-OptionID: 2.16A | try something completely new | Marks: 2
-OptionID: 2.16B | order something you recognize or ask for recommendations | Marks: 4
-OptionID: 2.16C | order the most unusual item available | Marks: 1
-OptionID: 2.16D | choose something mildly adventurous | Marks: 3
+OptionID: 1.16A | try something completely new | Marks: 2
+OptionID: 1.16B | order something you recognize or ask for recommendations | Marks: 4
+OptionID: 1.16C | order the most unusual item available | Marks: 1
+OptionID: 1.16D | choose something mildly adventurous | Marks: 3
 ----------------------------------
-QuestionID:2.17
+QuestionID:1.17
 Trait: Openness
 a new method is proposed for a task you have mastered
-OptionID: 2.17A | enthusiastically experiment with it | Marks: 1
-OptionID: 2.17B | consider it but likely maintain current methods | Marks: 3
-OptionID: 2.17C | try the new method to see if it is better | Marks: 2
-OptionID: 2.17D | stick with your proven approach | Marks: 4
+OptionID: 1.17A | enthusiastically experiment with it | Marks: 1
+OptionID: 1.17B | consider it but likely maintain current methods | Marks: 3
+OptionID: 1.17C | try the new method to see if it is better | Marks: 2
+OptionID: 1.17D | stick with your proven approach | Marks: 4
 ----------------------------------
-QuestionID:2.18
+QuestionID:1.18
 Trait: Openness
 you are planning a vacation
-OptionID: 2.18A | visit a new place but with planned activities | Marks: 3
-OptionID: 2.18B | explore with flexible plans | Marks: 2
-OptionID: 2.18C | choose a familiar type of destination | Marks: 4
-OptionID: 2.18D | seek out completely novel experiences | Marks: 1
+OptionID: 1.18A | visit a new place but with planned activities | Marks: 3
+OptionID: 1.18B | explore with flexible plans | Marks: 2
+OptionID: 1.18C | choose a familiar type of destination | Marks: 4
+OptionID: 1.18D | seek out completely novel experiences | Marks: 1
 ----------------------------------
-QuestionID:2.19
+QuestionID:1.19
 Trait: Openness
 when shopping for essentials you
-OptionID: 2.19A | enjoy discovering new options frequently | Marks: 1
-OptionID: 2.19B | buy the same brands you trust | Marks: 4
-OptionID: 2.19C | occasionally try alternatives on sale | Marks: 3
-OptionID: 2.19D | regularly test new products | Marks: 2
+OptionID: 1.19A | enjoy discovering new options frequently | Marks: 1
+OptionID: 1.19B | buy the same brands you trust | Marks: 4
+OptionID: 1.19C | occasionally try alternatives on sale | Marks: 3
+OptionID: 1.19D | regularly test new products | Marks: 2
 ----------------------------------
-QuestionID:2.20
+QuestionID:1.20
 Trait: Openness
 someone suggests a weekend activity you have never done
-OptionID: 2.20A | agree if it seems reasonably enjoyable | Marks: 3
-OptionID: 2.20B | feel interested in trying new things | Marks: 2
-OptionID: 2.20C | get excited about novel experiences | Marks: 1
-OptionID: 2.20D | decline if it is outside your comfort zone | Marks: 4
+OptionID: 1.20A | agree if it seems reasonably enjoyable | Marks: 3
+OptionID: 1.20B | feel interested in trying new things | Marks: 2
+OptionID: 1.20C | get excited about novel experiences | Marks: 1
+OptionID: 1.20D | decline if it is outside your comfort zone | Marks: 4
 ----------------------------------
-QuestionID:2.21
+QuestionID:1.21
 Trait: Openness
 you encounter information about an unfamiliar topic
-OptionID: 2.21A | deep-dive and seek related information | Marks: 1
-OptionID: 2.21B | read briefly if it seems interesting | Marks: 3
-OptionID: 2.21C | explore further out of curiosity | Marks: 2
-OptionID: 2.21D | note it if relevant to your needs | Marks: 4
+OptionID: 1.21A | deep-dive and seek related information | Marks: 1
+OptionID: 1.21B | read briefly if it seems interesting | Marks: 3
+OptionID: 1.21C | explore further out of curiosity | Marks: 2
+OptionID: 1.21D | note it if relevant to your needs | Marks: 4
 ----------------------------------
-QuestionID:2.22
+QuestionID:1.22
 Trait: Openness
 during free time you are likely to
-OptionID: 2.22A | engage in familiar hobbies | Marks: 3
-OptionID: 2.22B | study complex subjects or theories | Marks: 1
-OptionID: 2.22C | learn something new or explore ideas | Marks: 2
-OptionID: 2.22D | relax with light entertainment | Marks: 4
+OptionID: 1.22A | engage in familiar hobbies | Marks: 3
+OptionID: 1.22B | study complex subjects or theories | Marks: 1
+OptionID: 1.22C | learn something new or explore ideas | Marks: 2
+OptionID: 1.22D | relax with light entertainment | Marks: 4
 ----------------------------------
-QuestionID:2.23
+QuestionID:1.23
 Trait: Openness
 a debate arises on a topic outside your expertise
-OptionID: 2.23A | listen but do not engage much | Marks: 4
-OptionID: 2.23B | research extensively to form an informed opinion | Marks: 1
-OptionID: 2.23C | feel motivated to learn more about it | Marks: 2
-OptionID: 2.23D | participate with your general understanding | Marks: 3
+OptionID: 1.23A | listen but do not engage much | Marks: 4
+OptionID: 1.23B | research extensively to form an informed opinion | Marks: 1
+OptionID: 1.23C | feel motivated to learn more about it | Marks: 2
+OptionID: 1.23D | participate with your general understanding | Marks: 3
 ----------------------------------
-QuestionID:2.24
+QuestionID:1.24
 Trait: Openness
 you prefer conversations that
-OptionID: 2.24A | cover everyday topics and experiences | Marks: 4
-OptionID: 2.24B | explore ideas and perspectives | Marks: 2
-OptionID: 2.24C | delve into complex thought-provoking questions | Marks: 1
-OptionID: 2.24D | mix practical and interesting subjects | Marks: 3
+OptionID: 1.24A | cover everyday topics and experiences | Marks: 4
+OptionID: 1.24B | explore ideas and perspectives | Marks: 2
+OptionID: 1.24C | delve into complex thought-provoking questions | Marks: 1
+OptionID: 1.24D | mix practical and interesting subjects | Marks: 3
 ----------------------------------
-QuestionID:2.25
+QuestionID:1.25
 Trait: Openness
 when you do not understand how something works
-OptionID: 2.25A | investigate thoroughly and enjoy the process | Marks: 1
-OptionID: 2.25B | accept it and move on | Marks: 4
-OptionID: 2.25C | feel compelled to understand it | Marks: 2
-OptionID: 2.25D | look it up if it is important | Marks: 3
+OptionID: 1.25A | investigate thoroughly and enjoy the process | Marks: 1
+OptionID: 1.25B | accept it and move on | Marks: 4
+OptionID: 1.25C | feel compelled to understand it | Marks: 2
+OptionID: 1.25D | look it up if it is important | Marks: 3
 ----------------------------------
-QuestionID:2.26
+QuestionID:1.26
 Trait: Openness
 you meet someone with a very different cultural or ideological background
-OptionID: 2.26A | maintain polite distance | Marks: 4
-OptionID: 2.26B | actively seek to understand and appreciate differences | Marks: 1
-OptionID: 2.26C | interact normally within common ground | Marks: 3
-OptionID: 2.26D | show interest in their perspective | Marks: 2
+OptionID: 1.26A | maintain polite distance | Marks: 4
+OptionID: 1.26B | actively seek to understand and appreciate differences | Marks: 1
+OptionID: 1.26C | interact normally within common ground | Marks: 3
+OptionID: 1.26D | show interest in their perspective | Marks: 2
 ----------------------------------
-QuestionID:2.27
+QuestionID:1.27
 Trait: Openness
 a colleague has unconventional work habits that differ from yours
-OptionID: 2.27A | feel it is inefficient or unprofessional | Marks: 4
-OptionID: 2.27B | accept it as long as results are delivered | Marks: 3
-OptionID: 2.27C | find it interesting and not concerning | Marks: 2
-OptionID: 2.27D | appreciate the diversity in approaches | Marks: 1
+OptionID: 1.27A | feel it is inefficient or unprofessional | Marks: 4
+OptionID: 1.27B | accept it as long as results are delivered | Marks: 3
+OptionID: 1.27C | find it interesting and not concerning | Marks: 2
+OptionID: 1.27D | appreciate the diversity in approaches | Marks: 1
 ----------------------------------
-QuestionID:2.28
+QuestionID:1.28
 Trait: Openness
 you are in a discussion where someone expresses views opposite to yours
-OptionID: 2.28A | state your position and agree to disagree | Marks: 3
-OptionID: 2.28B | listen to understand their reasoning | Marks: 2
-OptionID: 2.28C | engage deeply and find value in the different perspective | Marks: 1
-OptionID: 2.28D | disengage or feel the conversation is unproductive | Marks: 4
+OptionID: 1.28A | state your position and agree to disagree | Marks: 3
+OptionID: 1.28B | listen to understand their reasoning | Marks: 2
+OptionID: 1.28C | engage deeply and find value in the different perspective | Marks: 1
+OptionID: 1.28D | disengage or feel the conversation is unproductive | Marks: 4
 ----------------------------------
-QuestionID:2.29
+QuestionID:1.29
 Trait: Openness
 your social circle consists of
-OptionID: 2.29A | a mix of different types of people | Marks: 2
-OptionID: 2.29B | highly diverse individuals from various walks of life | Marks: 1
-OptionID: 2.29C | a fairly homogeneous group with slight variations | Marks: 3
-OptionID: 2.29D | people who share similar backgrounds and values | Marks: 4
+OptionID: 1.29A | a mix of different types of people | Marks: 2
+OptionID: 1.29B | highly diverse individuals from various walks of life | Marks: 1
+OptionID: 1.29C | a fairly homogeneous group with slight variations | Marks: 3
+OptionID: 1.29D | people who share similar backgrounds and values | Marks: 4
 ----------------------------------
-QuestionID:2.30
+QuestionID:1.30
 Trait: Openness
 when encountering unfamiliar customs or traditions
-OptionID: 2.30A | you embrace and want to learn from them | Marks: 1
-OptionID: 2.30B | you feel they are strange or impractical | Marks: 4
-OptionID: 2.30C | you are curious and open to them | Marks: 2
-OptionID: 2.30D | you accept them as different | Marks: 3
+OptionID: 1.30A | you embrace and want to learn from them | Marks: 1
+OptionID: 1.30B | you feel they are strange or impractical | Marks: 4
+OptionID: 1.30C | you are curious and open to them | Marks: 2
+OptionID: 1.30D | you accept them as different | Marks: 3
+----------------------------------
+QuestionID:2.1
+Trait: Conscientiousness
+you are assigned a task outside your comfort zone
+OptionID: 2.1A | feel you can figure it out | Marks: 2
+OptionID: 2.1B | feel uncertain about your ability to do it well | Marks: 4
+OptionID: 2.1C | feel confident you will master it | Marks: 1
+OptionID: 2.1D | have some doubts but try anyway | Marks: 3
+----------------------------------
+QuestionID:2.2
+Trait: Conscientiousness
+when facing challenges you believe
+OptionID: 2.2A | you might not have what it takes | Marks: 4
+OptionID: 2.2B | you are highly effective and resourceful | Marks: 1
+OptionID: 2.2C | you are capable of handling most things | Marks: 2
+OptionID: 2.2D | you can manage with effort | Marks: 3
+----------------------------------
+QuestionID:2.3
+Trait: Conscientiousness
+your self-assessment of your skills is
+OptionID: 2.3A | aware of limitations | Marks: 3
+OptionID: 2.3B | often doubtful | Marks: 4
+OptionID: 2.3C | confident in key areas | Marks: 2
+OptionID: 2.3D | strong across domains | Marks: 1
+----------------------------------
+QuestionID:2.4
+Trait: Conscientiousness
+when something goes wrong in your work
+OptionID: 2.4A | worry about specific skills | Marks: 3
+OptionID: 2.4B | stay confident and troubleshoot | Marks: 1
+OptionID: 2.4C | question your overall abilities | Marks: 4
+OptionID: 2.4D | see it as a learning moment | Marks: 2
+----------------------------------
+QuestionID:2.5
+Trait: Conscientiousness
+you are asked to lead a project
+OptionID: 2.5A | feel ready and capable | Marks: 2
+OptionID: 2.5B | accept with some reservations | Marks: 3
+OptionID: 2.5C | feel anxious about your capability | Marks: 4
+OptionID: 2.5D | feel fully prepared and confident | Marks: 1
+----------------------------------
+QuestionID:2.6
+Trait: Conscientiousness
+your workspace typically looks
+OptionID: 2.6A | generally tidy | Marks: 2
+OptionID: 2.6B | meticulously organized | Marks: 1
+OptionID: 2.6C | cluttered with items everywhere | Marks: 4
+OptionID: 2.6D | somewhat messy but functional | Marks: 3
+----------------------------------
+QuestionID:2.7
+Trait: Conscientiousness
+you organize files and documents
+OptionID: 2.7A | with a detailed systematic structure | Marks: 1
+OptionID: 2.7B | rarely and search when needed | Marks: 4
+OptionID: 2.7C | occasionally when things get messy | Marks: 3
+OptionID: 2.7D | regularly maintain organization | Marks: 2
+----------------------------------
+QuestionID:2.8
+Trait: Conscientiousness
+your approach to physical and digital spaces
+OptionID: 2.8A | need everything in its proper place | Marks: 1
+OptionID: 2.8B | like things organized | Marks: 2
+OptionID: 2.8C | chaos does not bother you | Marks: 4
+OptionID: 2.8D | prefer some order but tolerate mess | Marks: 3
+----------------------------------
+QuestionID:2.9
+Trait: Conscientiousness
+when you finish using something
+OptionID: 2.9A | leave it where it is | Marks: 4
+OptionID: 2.9B | usually return it to its place | Marks: 2
+OptionID: 2.9C | put it away sometimes | Marks: 3
+OptionID: 2.9D | immediately return it to its designated spot | Marks: 1
+----------------------------------
+QuestionID:2.10
+Trait: Conscientiousness
+disorder in your environment makes you
+OptionID: 2.10A | need to fix it immediately | Marks: 1
+OptionID: 2.10B | want to clean it soon | Marks: 2
+OptionID: 2.10C | slightly uncomfortable | Marks: 3
+OptionID: 2.10D | unbothered | Marks: 4
+----------------------------------
+QuestionID:2.11
+Trait: Conscientiousness
+you are part of a team project with unclear individual roles
+OptionID: 2.11A | do what is explicitly assigned to you | Marks: 4
+OptionID: 2.11B | contribute your share | Marks: 3
+OptionID: 2.11C | take initiative on undefined tasks | Marks: 2
+OptionID: 2.11D | ensure nothing falls through the cracks | Marks: 1
+----------------------------------
+QuestionID:2.12
+Trait: Conscientiousness
+a deadline is approaching for something you are responsible for
+OptionID: 2.12A | finish early to ensure quality | Marks: 2
+OptionID: 2.12B | usually complete it on time | Marks: 3
+OptionID: 2.12C | complete it well ahead with contingency time | Marks: 1
+OptionID: 2.12D | work on it as the deadline nears | Marks: 4
+----------------------------------
+QuestionID:2.13
+Trait: Conscientiousness
+you notice a problem that is technically not your job
+OptionID: 2.13A | leave it for whoever is responsible | Marks: 4
+OptionID: 2.13B | take ownership and solve it | Marks: 1
+OptionID: 2.13C | address it if it is simple | Marks: 2
+OptionID: 2.13D | mention it to the appropriate person | Marks: 3
+----------------------------------
+QuestionID:2.14
+Trait: Conscientiousness
+your sense of obligation to commitments is
+OptionID: 2.14A | strong and dependable | Marks: 2
+OptionID: 2.14B | generally reliable | Marks: 3
+OptionID: 2.14C | unwavering and absolute | Marks: 1
+OptionID: 2.14D | flexible based on circumstances | Marks: 4
+----------------------------------
+QuestionID:2.15
+Trait: Conscientiousness
+when you make a promise
+OptionID: 2.15A | you mean it in the moment | Marks: 4
+OptionID: 2.15B | you try to follow through | Marks: 3
+OptionID: 2.15C | it is a guarantee you will not break | Marks: 1
+OptionID: 2.15D | you make sure to deliver | Marks: 2
+----------------------------------
+QuestionID:2.16
+Trait: Conscientiousness
+when you complete a task adequately
+OptionID: 2.16A | you feel good about finishing | Marks: 3
+OptionID: 2.16B | you are satisfied and move on | Marks: 4
+OptionID: 2.16C | you want to do it well not just adequately | Marks: 2
+OptionID: 2.16D | you push yourself to exceed standards | Marks: 1
+----------------------------------
+QuestionID:2.17
+Trait: Conscientiousness
+your goals for yourself are
+OptionID: 2.17A | achievable with effort | Marks: 3
+OptionID: 2.17B | modest and realistic | Marks: 4
+OptionID: 2.17C | challenging but attainable | Marks: 2
+OptionID: 2.17D | highly ambitious | Marks: 1
+----------------------------------
+QuestionID:2.18
+Trait: Conscientiousness
+success and achievement in your work
+OptionID: 2.18A | are central to your identity and motivation | Marks: 1
+OptionID: 2.18B | are important to you | Marks: 3
+OptionID: 2.18C | matter but are not your primary focus | Marks: 4
+OptionID: 2.18D | drive much of your effort | Marks: 2
+----------------------------------
+QuestionID:2.19
+Trait: Conscientiousness
+when you perform at an average level
+OptionID: 2.19A | you are somewhat disappointed | Marks: 3
+OptionID: 2.19B | you are dissatisfied and push harder | Marks: 1
+OptionID: 2.19C | you are motivated to improve | Marks: 2
+OptionID: 2.19D | you are fine with it | Marks: 4
+----------------------------------
+QuestionID:2.20
+Trait: Conscientiousness
+your internal standards are
+OptionID: 2.20A | exceptionally demanding | Marks: 1
+OptionID: 2.20B | comfortable and reasonable | Marks: 4
+OptionID: 2.20C | moderate | Marks: 3
+OptionID: 2.20D | high | Marks: 2
+----------------------------------
+QuestionID:2.21
+Trait: Conscientiousness
+you have an important but unpleasant task to complete
+OptionID: 2.21A | procrastinate until necessary | Marks: 4
+OptionID: 2.21B | do it eventually with some delay | Marks: 3
+OptionID: 2.21C | do it immediately regardless of preference | Marks: 1
+OptionID: 2.21D | complete it despite not wanting to | Marks: 2
+----------------------------------
+QuestionID:2.22
+Trait: Conscientiousness
+distractions around you
+OptionID: 2.22A | do not impact your concentration | Marks: 1
+OptionID: 2.22B | slow you down sometimes | Marks: 3
+OptionID: 2.22C | affect you minimally | Marks: 2
+OptionID: 2.22D | easily derail your focus | Marks: 4
+----------------------------------
+QuestionID:2.23
+Trait: Conscientiousness
+when working on long-term goals
+OptionID: 2.23A | struggle to maintain consistent effort | Marks: 4
+OptionID: 2.23B | work on them irregularly | Marks: 3
+OptionID: 2.23C | maintain unwavering focus | Marks: 1
+OptionID: 2.23D | stay fairly consistent | Marks: 2
+----------------------------------
+QuestionID:2.24
+Trait: Conscientiousness
+your ability to resist temptations is
+OptionID: 2.24A | weak and you often give in | Marks: 4
+OptionID: 2.24B | very strong and you rarely give in | Marks: 1
+OptionID: 2.24C | moderate and you resist sometimes | Marks: 3
+OptionID: 2.24D | strong and you usually resist | Marks: 2
+----------------------------------
+QuestionID:2.25
+Trait: Conscientiousness
+following through on intentions
+OptionID: 2.25A | consistently happens | Marks: 2
+OptionID: 2.25B | always happens without exception | Marks: 1
+OptionID: 2.25C | happens sometimes | Marks: 4
+OptionID: 2.25D | usually happens | Marks: 3
+----------------------------------
+QuestionID:2.26
+Trait: Conscientiousness
+before making an important decision you
+OptionID: 2.26A | think it over briefly | Marks: 3
+OptionID: 2.26B | go with your gut quickly | Marks: 4
+OptionID: 2.26C | carefully weigh options | Marks: 2
+OptionID: 2.26D | analyze thoroughly from all angles | Marks: 1
+----------------------------------
+QuestionID:2.27
+Trait: Conscientiousness
+when planning projects you
+OptionID: 2.27A | develop comprehensive plans with contingencies | Marks: 1
+OptionID: 2.27B | start and figure it out as you go | Marks: 4
+OptionID: 2.27C | make a basic outline | Marks: 3
+OptionID: 2.27D | create a detailed plan | Marks: 2
+----------------------------------
+QuestionID:2.28
+Trait: Conscientiousness
+your approach to problems is
+OptionID: 2.28A | consider all possibilities systematically | Marks: 1
+OptionID: 2.28B | act quickly and adjust | Marks: 4
+OptionID: 2.28C | think briefly then act | Marks: 3
+OptionID: 2.28D | think through carefully before acting | Marks: 2
+----------------------------------
+QuestionID:2.29
+Trait: Conscientiousness
+you prefer to
+OptionID: 2.29A | be spontaneous and flexible | Marks: 4
+OptionID: 2.29B | have some structure but stay adaptable | Marks: 3
+OptionID: 2.29C | plan ahead | Marks: 2
+OptionID: 2.29D | have everything mapped out in detail | Marks: 1
+----------------------------------
+QuestionID:2.30
+Trait: Conscientiousness
+before speaking or acting you
+OptionID: 2.30A | rarely think about consequences | Marks: 4
+OptionID: 2.30B | usually think through implications | Marks: 2
+OptionID: 2.30C | consider them briefly | Marks: 3
+OptionID: 2.30D | always carefully consider all potential outcomes | Marks: 1
 ----------------------------------
 QuestionID:3.1
 Trait: Extraversion

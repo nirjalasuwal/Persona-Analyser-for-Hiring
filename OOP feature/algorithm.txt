@@ -1,0 +1,111 @@
+4.3 Algorithm
+1. Start the program.
+2. Display the Main Menu:
+• Admin Login
+• Candidate Assessment
+• Exit
+3. Read the user’s choice.
+4. If the user selects Admin Login:
+(a) Set login attempts = 0.
+(b) Ask the admin to enter the password.
+5. Check the entered password.
+(a) If the password is correct:
+• Display “Login Successful”
+• Go to Step 7
+(b) Otherwise:
+• Increase login attempts by 1
+• Display remaining attempts
+6. If login attempts reach 3:
+(a) Lock the system for 30 seconds.
+(b) Display countdown timer.
+(c) Reset login attempts to 0.
+(d) Return to Step 4.
+7. Display the Admin Menu:
+• Add Question
+• View Questions
+• Delete Question
+• Calculate All Candidate Scores
+• View Candidate Result
+• Logout
+8. Read the admin’s choice.
+9. If Add Question is selected:
+(a) Select personality trait.
+b) Generate Question ID.
+(c) Enter question text.
+(d) Enter options A, B, C, and D.
+(e) Assign marks according to priority.
+(f) Save the question into the database/file.
+(g) Display success message.
+(h) Return to Step 7.
+10. If View Questions is selected:
+(a) Load all questions from the file.
+(b) Sort questions by Question ID.
+(c) Display all stored questions.
+(d) Return to Step 7.
+11. If Delete Question is selected:
+(a) Display all available questions.
+(b) Enter Question ID to delete.
+(c) Search for the Question ID.
+(d) If found:
+• Delete the question.
+• Renumber remaining question IDs.
+• Save updated questions.
+(e) Otherwise:
+• Display “Question not found”
+(f) Return to Step 7.
+12. If Calculate All Candidate Scores is selected:
+(a) Load all candidate records.
+(b) Read each candidate response file.
+(c) Calculate trait scores.
+(d) Generate candidate reports.
+(e) Save reports into score file.
+(f) Display all results.
+(g) Return to Step 7.
+13. If View Candidate Result is selected:
+(a) Display candidate list.
+(b) Enter Candidate ID.
+(c) Search candidate record.
+(d) If candidate exists:
+• Load candidate data.
+• Calculate scores.
+• Display detailed report.
+• Display bar graph.
+(e) Otherwise:
+• Display “Candidate not found”
+(f) Return to Step 7.
+14. If Logout is selected:
+(a) Display logout message.
+(b) Return to Main Menu.
+15. If the user selects Candidate Assessment:
+(a) Load all questions from file.
+(b) Randomly select 25 questions.
+(c) Display assessment instructions.
+16. Enter candidate details:
+(a) Enter candidate name.
+(b) Enter candidate age.
+(c) Validate age (18–25 only).
+(d) Enter phone number.
+(e) Validate phone number.
+(f) Generate Candidate ID.
+17. Create candidate response file.
+18. Save candidate information into registry.
+19. Start the assessment:
+(a) Display one question at a time.
+(b) Display options A, B, C, and D.
+(c) Start 60-second timer.
+(d) Read candidate answer.
+20. Check candidate response:
+(a) If answer is entered within time:
+• Save selected option.
+• Save marks.
+(b) Otherwise:
+• Mark question as TIMEOUT.
+• Assign 0 marks.
+(c) Save time taken.
+(d) Repeat until all questions are completed.
+21. Sort and save all responses.
+22. Display assessment completion message.
+23. Display generated Candidate ID.
+24. If the user selects Exit:
+(a) Display goodbye message.
+(b) End the program.
